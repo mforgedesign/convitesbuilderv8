@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Marsala vinho com pink",
     "tema": "Elegante",
-    "musica": "assets/music_1784066416263.mp3",
+    "musica": "assets/music_1784066441817.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "Karol15Anos",
@@ -25,43 +25,43 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784066416263.jpg",
-    "cartao": "assets/cartao_gen_1784066416263.jpg",
+    "capa": "assets/cover_1784066441817.jpg",
+    "cartao": "assets/cartao_gen_1784066441817.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784066416263.mp4",
-      "assets/slide2_1784066416263.jpg",
-      "assets/slide3_1784066416263.mp4",
-      "assets/slide4_1784066416263.jpg"
+      "assets/slide1_1784066441817.mp4",
+      "assets/slide2_1784066441817.jpg",
+      "assets/slide3_1784066441817.mp4",
+      "assets/slide4_1784066441817.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784066416263.mp4",
+        "filePath": "assets/slide1_1784066441817.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784066416263.jpg",
+        "filePath": "assets/slide2_1784066441817.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1784066416263.mp4",
+        "filePath": "assets/slide3_1784066441817.mp4",
         "label": "Cena Temática",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784066416263.jpg",
+        "filePath": "assets/slide4_1784066441817.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784066416263.jpg",
-    "folhaPreenchida": "assets/folha_1784066416263.jpg",
-    "musica": "assets/music_1784066416263.mp3",
+    "folhaVazia": "assets/folha_vazia_1784066441817.jpg",
+    "folhaPreenchida": "assets/folha_1784066441817.jpg",
+    "musica": "assets/music_1784066441817.mp3",
     "fabric": {
       "saveTheDate": {
-        "referencia": "assets/fabric_save_the_date_ref_1784066416263.jpg",
-        "resultado": "assets/save_the_date_1784062560488_1784066416263.mp4",
+        "referencia": "assets/fabric_save_the_date_ref_1784066441817.jpg",
+        "resultado": "assets/save_the_date_1784066428326_1784066441817.mp4",
         "musicaPersonalizada": "",
         "musicSource": "convite",
         "hasMusic": true,
