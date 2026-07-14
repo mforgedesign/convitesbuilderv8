@@ -14,9 +14,9 @@ window.config = {
   "convite": {
     "paletaCores": "Vermelho e Azul",
     "tema": "Branca de Neve",
-    "musica": "assets/music_1784060583264.mp3",
-    "tipoAbertura": "nenhuma",
-    "particulasAbertura": false,
+    "musica": "assets/music_1784060772839.mp3",
+    "tipoAbertura": "longa",
+    "particulasAbertura": true,
     "slug": "Isis1Ano",
     "seo": {
       "pageTitle": "Convite de Aniversário de Isis",
@@ -25,13 +25,21 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "",
-    "cartao": "assets/chatgpt_image_14_de_jul_de_2026_17_20_06_1784060583264.png",
-    "aberturaSlides": [],
-    "aberturaSlidesMeta": [],
-    "folhaVazia": "assets/folha_vazia_1784060583264.jpg",
+    "capa": "assets/cover_1784060772839.jpg",
+    "cartao": "assets/chatgpt_image_14_de_jul_de_2026_17_20_06_1784060772839.png",
+    "aberturaSlides": [
+      "assets/slide1_1784060772839.mp4"
+    ],
+    "aberturaSlidesMeta": [
+      {
+        "filePath": "assets/slide1_1784060772839.mp4",
+        "label": "Abertura (Vídeo)",
+        "type": "video"
+      }
+    ],
+    "folhaVazia": "assets/folha_vazia_1784060772839.jpg",
     "folhaPreenchida": "assets/folha.jpg",
-    "musica": "assets/music_1784060583264.mp3",
+    "musica": "assets/music_1784060772839.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
