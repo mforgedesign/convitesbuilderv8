@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Vermelho e Azul",
     "tema": "Branca de Neve",
-    "musica": "assets/music_1784061843564.mp3",
+    "musica": "assets/music_1784063283835.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Isis1Ano",
@@ -25,21 +25,21 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784061843564.jpg",
-    "cartao": "assets/chatgpt_image_14_de_jul_de_2026_17_20_06_1784061843564.png",
+    "capa": "assets/cover_1784063283835.jpg",
+    "cartao": "assets/chatgpt_image_14_de_jul_de_2026_17_20_06_1784063283835.png",
     "aberturaSlides": [
-      "assets/slide1_1784061843564.mp4"
+      "assets/slide1_1784063283835.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784061843564.mp4",
+        "filePath": "assets/slide1_1784063283835.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784061843564.jpg",
-    "folhaPreenchida": "assets/folha_1784061843564.png",
-    "musica": "assets/music_1784061843564.mp3",
+    "folhaVazia": "assets/folha_vazia_1784063283835.jpg",
+    "folhaPreenchida": "assets/folha_1784063283835.png",
+    "musica": "assets/music_1784063283835.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -76,7 +76,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Confirmar Presença",
       "icone": "fa-solid fa-check",
-      "whatsapp": "5521986439558",
+      "whatsapp": "5521979625132",
       "rsvpConfig": {
         "exibirNome": true,
         "exibirWhatsapp": false,
