@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Marsala vinho com pink",
     "tema": "Elegante",
-    "musica": "assets/music_1784138594256.mp3",
+    "musica": "assets/music_1784138600737.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Karol15Anos",
@@ -25,43 +25,43 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784138594256.jpg",
-    "cartao": "assets/cartao_gen_1784138594256.jpg",
+    "capa": "assets/cover_1784138600737.jpg",
+    "cartao": "assets/cartao_gen_1784138600737.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784138594256.mp4",
-      "assets/slide2_1784138594256.jpg",
-      "assets/slide3_1784138594256.mp4",
-      "assets/slide4_1784138594256.jpg"
+      "assets/slide1_1784138600737.mp4",
+      "assets/slide2_1784138600737.jpg",
+      "assets/slide3_1784138600737.mp4",
+      "assets/slide4_1784138600737.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784138594256.mp4",
+        "filePath": "assets/slide1_1784138600737.mp4",
         "label": "Abertura (Video)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784138594256.jpg",
+        "filePath": "assets/slide2_1784138600737.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1784138594256.mp4",
+        "filePath": "assets/slide3_1784138600737.mp4",
         "label": "Cena Tematica",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784138594256.jpg",
+        "filePath": "assets/slide4_1784138600737.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784138594256.jpg",
-    "folhaPreenchida": "assets/folha_1784138594256.jpg",
-    "musica": "assets/music_1784138594256.mp3",
+    "folhaVazia": "assets/folha_vazia_1784138600737.jpg",
+    "folhaPreenchida": "assets/folha_1784138600737.jpg",
+    "musica": "assets/music_1784138600737.mp3",
     "fabric": {
       "saveTheDate": {
-        "referencia": "assets/fabric_save_the_date_ref_1784138594256.jpg",
-        "resultado": "assets/save_the_date_1784066548244_1784138594256.mp4",
+        "referencia": "assets/fabric_save_the_date_ref_1784138600737.jpg",
+        "resultado": "assets/save_the_date_1784066548244_1784138600737.mp4",
         "musicaPersonalizada": "",
         "musicSource": "convite",
         "hasMusic": true,
@@ -97,7 +97,7 @@ window.config = {
       "conteudo": "https://fantastic-empanada-493beb.netlify.app/"
     },
     {
-      "tipoAcao": "Link",
+      "tipoAcao": "PopupHtml",
       "tipoVisual": "css",
       "titulo": "Dress Code",
       "icone": "fa-solid fa-shirt",
