@@ -14,54 +14,54 @@ window.config = {
   "convite": {
     "paletaCores": "Marsala vinho com pink",
     "tema": "Elegante",
-    "musica": "assets/music_1784066441817.mp3",
-    "tipoAbertura": "curta",
+    "musica": "assets/music_1784079482595.mp3",
+    "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Karol15Anos",
     "seo": {
-      "pageTitle": "",
+      "pageTitle": "Convite Especial",
       "ogTitle": "Você recebeu um convite especial!",
       "ogDescription": "Embarque nessa noite mágica. Clique para ver os detalhes."
     }
   },
   "assets": {
-    "capa": "assets/cover_1784066441817.jpg",
-    "cartao": "assets/cartao_gen_1784066441817.jpg",
+    "capa": "assets/cover_1784079482595.jpg",
+    "cartao": "assets/cartao_gen_1784079482595.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784066441817.mp4",
-      "assets/slide2_1784066441817.jpg",
-      "assets/slide3_1784066441817.mp4",
-      "assets/slide4_1784066441817.jpg"
+      "assets/slide1_1784079482595.mp4",
+      "assets/slide2_1784079482595.jpg",
+      "assets/slide3_1784079482595.mp4",
+      "assets/slide4_1784079482595.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784066441817.mp4",
-        "label": "Abertura (Vídeo)",
+        "filePath": "assets/slide1_1784079482595.mp4",
+        "label": "Abertura (Video)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784066441817.jpg",
+        "filePath": "assets/slide2_1784079482595.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1784066441817.mp4",
-        "label": "Cena Temática",
+        "filePath": "assets/slide3_1784079482595.mp4",
+        "label": "Cena Tematica",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784066441817.jpg",
+        "filePath": "assets/slide4_1784079482595.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784066441817.jpg",
-    "folhaPreenchida": "assets/folha_1784066441817.jpg",
-    "musica": "assets/music_1784066441817.mp3",
+    "folhaVazia": "assets/folha_vazia_1784079482595.jpg",
+    "folhaPreenchida": "assets/folha_1784079482595.jpg",
+    "musica": "assets/music_1784079482595.mp3",
     "fabric": {
       "saveTheDate": {
-        "referencia": "assets/fabric_save_the_date_ref_1784066441817.jpg",
-        "resultado": "assets/save_the_date_1784066428326_1784066441817.mp4",
+        "referencia": "assets/fabric_save_the_date_ref_1784079482595.jpg",
+        "resultado": "assets/save_the_date_1784066548244_1784079482595.mp4",
         "musicaPersonalizada": "",
         "musicSource": "convite",
         "hasMusic": true,
