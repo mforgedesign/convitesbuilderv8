@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1784150598576.mp3",
+    "musica": "assets/music_1784163859917.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Leticia16Anos",
@@ -25,21 +25,21 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784150598576.jpg",
+    "capa": "assets/cover_1784163859917.jpg",
     "cartao": "",
     "aberturaSlides": [
-      "assets/slide1_1784150598576.mp4"
+      "assets/slide1_1784163859917.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784150598576.mp4",
+        "filePath": "assets/slide1_1784163859917.mp4",
         "label": "Slide 1",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784150598576.jpg",
-    "folhaPreenchida": "assets/folha_1784150598576.jpg",
-    "musica": "assets/music_1784150598576.mp3",
+    "folhaVazia": "assets/folha_vazia_1784163859917.jpg",
+    "folhaPreenchida": "assets/folha_1784163859917.jpg",
+    "musica": "assets/music_1784163859917.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -74,7 +74,7 @@ window.config = {
     {
       "tipoAcao": "Link",
       "tipoVisual": "css",
-      "titulo": "Dicas de Presente",
+      "titulo": "Sugestão de Presente",
       "icone": "fa-solid fa-gift",
       "conteudo": "https://sites.google.com/view/site-de-lista-de-presente/in%C3%ADcio"
     },
