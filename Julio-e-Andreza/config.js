@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": " branca, verde oliva e algumas flores no tom rose",
     "tema": "Elegante, Elementos de casamento no design",
-    "musica": "assets/music_1784231446806.mp3",
+    "musica": "assets/music_1784231763337.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Julio-e-Andreza",
@@ -25,33 +25,33 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784231446806.png",
-    "cartao": "assets/cartao_gen_1784231446806.jpg",
+    "capa": "assets/cover_1784231763337.png",
+    "cartao": "assets/cartao_gen_1784231763337.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784231446806.mp4",
-      "assets/slide2_1784231446806.mp4",
-      "assets/slide3_1784231446806.mp4"
+      "assets/slide1_1784231763337.mp4",
+      "assets/slide2_1784231763337.mp4",
+      "assets/slide3_1784231763337.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784231446806.mp4",
+        "filePath": "assets/slide1_1784231763337.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784231446806.mp4",
+        "filePath": "assets/slide2_1784231763337.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1784231446806.mp4",
+        "filePath": "assets/slide3_1784231763337.mp4",
         "label": "Slide 2",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784231446806.png",
-    "folhaPreenchida": "assets/folha_1784231446806.jpg",
-    "musica": "assets/music_1784231446806.mp3",
+    "folhaVazia": "assets/folha_vazia_1784231763337.png",
+    "folhaPreenchida": "assets/folha_1784231763337.jpg",
+    "musica": "assets/music_1784231763337.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
