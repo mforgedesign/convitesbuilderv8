@@ -69,7 +69,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Como Chegar",
       "icone": "fa-solid fa-location-dot",
-      "conteudo": "link pendente"
+      "conteudo": "https://maps.app.goo.gl/qnzTGiLa75n7MhPYA?g_st=ac"
     },
     {
       "tipoAcao": "RSVP",
