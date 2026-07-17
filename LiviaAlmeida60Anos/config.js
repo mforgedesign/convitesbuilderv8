@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Terracota, creme e dourado",
     "tema": "Elegante",
-    "musica": "assets/music_1784300318613.mp3",
+    "musica": "assets/music_1784300483035.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "LiviaAlmeida60Anos",
@@ -25,33 +25,33 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784300318613.png",
-    "cartao": "assets/cartao_gen_1784300318613.jpg",
+    "capa": "assets/cover_1784300483035.png",
+    "cartao": "assets/cartao_gen_1784300483035.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784300318613.mp4",
-      "assets/slide2_1784300318613.jpg",
-      "assets/slide3_1784300318613.jpg"
+      "assets/slide1_1784300483035.mp4",
+      "assets/slide2_1784300483035.jpg",
+      "assets/slide3_1784300483035.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784300318613.mp4",
+        "filePath": "assets/slide1_1784300483035.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784300318613.jpg",
+        "filePath": "assets/slide2_1784300483035.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1784300318613.jpg",
+        "filePath": "assets/slide3_1784300483035.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784300318613.png",
-    "folhaPreenchida": "assets/folha_1784300318613.jpg",
-    "musica": "assets/music_1784300318613.mp3",
+    "folhaVazia": "assets/folha_vazia_1784300483035.png",
+    "folhaPreenchida": "assets/folha_1784300483035.jpg",
+    "musica": "assets/music_1784300483035.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
