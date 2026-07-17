@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul escuro com cobre",
     "tema": "Jardim secreto",
-    "musica": "assets/music_1784318123894.mp3",
+    "musica": "assets/music_1784318698726.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Julia-15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784318123894.png",
-    "cartao": "assets/cartao_chatgpt_1784318123894.jpg",
+    "capa": "assets/cover_1784318698726.png",
+    "cartao": "assets/cartao_chatgpt_1784318698726.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784318123894.mp4",
-      "assets/slide2_1784318123894.jpg",
-      "assets/slide3_1784318123894.mp4",
-      "assets/slide4_1784318123894.jpg"
+      "assets/slide1_1784318698726.mp4",
+      "assets/slide2_1784318698726.jpg",
+      "assets/slide3_1784318698726.mp4",
+      "assets/slide4_1784318698726.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784318123894.mp4",
+        "filePath": "assets/slide1_1784318698726.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784318123894.jpg",
+        "filePath": "assets/slide2_1784318698726.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1784318123894.mp4",
+        "filePath": "assets/slide3_1784318698726.mp4",
         "label": "Cena Temática",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784318123894.jpg",
+        "filePath": "assets/slide4_1784318698726.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784318123894.png",
-    "folhaPreenchida": "assets/folha_1784318123894.jpg",
-    "musica": "assets/music_1784318123894.mp3",
+    "folhaVazia": "assets/folha_vazia_1784318698726.png",
+    "folhaPreenchida": "assets/folha_1784318698726.jpg",
+    "musica": "assets/music_1784318698726.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
