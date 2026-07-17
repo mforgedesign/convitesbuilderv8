@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Tons de Rosa",
     "tema": "Circo",
-    "musica": "assets/music_1784292247759.mp3",
+    "musica": "assets/music_1784292315931.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Circo-Rosa",
@@ -25,22 +25,22 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784292247759.png",
-    "cartao": "assets/cartao_chatgpt_1784292247759.jpg",
+    "capa": "assets/cover_1784292315931.png",
+    "cartao": "assets/cartao_chatgpt_1784292315931.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784292247759.mp4",
-      "assets/slide2_1784292247759.jpg",
+      "assets/slide1_1784292315931.mp4",
+      "assets/slide2_1784292315931.jpg",
       "",
-      "assets/slide4_1784292247759.jpg"
+      "assets/slide4_1784292315931.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784292247759.mp4",
+        "filePath": "assets/slide1_1784292315931.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784292247759.jpg",
+        "filePath": "assets/slide2_1784292315931.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
@@ -50,14 +50,14 @@ window.config = {
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784292247759.jpg",
+        "filePath": "assets/slide4_1784292315931.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784292247759.png",
-    "folhaPreenchida": "assets/folha_1784292247759.png",
-    "musica": "assets/music_1784292247759.mp3",
+    "folhaVazia": "assets/folha_vazia_1784292315931.png",
+    "folhaPreenchida": "assets/folha_1784292315931.png",
+    "musica": "assets/music_1784292315931.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
