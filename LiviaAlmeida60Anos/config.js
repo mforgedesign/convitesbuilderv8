@@ -14,44 +14,44 @@ window.config = {
   "convite": {
     "paletaCores": "Terracota, creme e dourado",
     "tema": "Elegante",
-    "musica": "assets/music_1784300483035.mp3",
+    "musica": "assets/music_1784303442542.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "LiviaAlmeida60Anos",
     "seo": {
-      "pageTitle": "",
+      "pageTitle": "Convite Especial",
       "ogTitle": "Você recebeu um convite especial!",
       "ogDescription": "Embarque nessa noite mágica. Clique para ver os detalhes."
     }
   },
   "assets": {
-    "capa": "assets/cover_1784300483035.png",
-    "cartao": "assets/cartao_gen_1784300483035.jpg",
+    "capa": "assets/cover_1784303442542.png",
+    "cartao": "assets/cartao_gen_1784303442542.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784300483035.mp4",
-      "assets/slide2_1784300483035.jpg",
-      "assets/slide3_1784300483035.jpg"
+      "assets/slide1_1784303442542.mp4",
+      "assets/slide2_1784303442542.jpg",
+      "assets/slide3_1784303442542.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784300483035.mp4",
+        "filePath": "assets/slide1_1784303442542.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784300483035.jpg",
+        "filePath": "assets/slide2_1784303442542.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1784300483035.jpg",
+        "filePath": "assets/slide3_1784303442542.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784300483035.png",
-    "folhaPreenchida": "assets/folha_1784300483035.jpg",
-    "musica": "assets/music_1784300483035.mp3",
+    "folhaVazia": "assets/folha_vazia_1784303442542.png",
+    "folhaPreenchida": "assets/folha_1784303442542.jpg",
+    "musica": "assets/music_1784303442542.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -116,7 +116,7 @@ window.config = {
     "lembrete": false
   },
   "config": {
-    "exibirMarcaDagua": false,
+    "exibirMarcaDagua": true,
     "cronometro": true,
     "buttonColor": "#8b5a2b",
     "buttonSize": 1,
