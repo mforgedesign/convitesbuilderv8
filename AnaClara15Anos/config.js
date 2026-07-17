@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Tons de Lilás e Dourado",
     "tema": "Princesa",
-    "musica": "assets/music_1784319509998.mp3",
+    "musica": "assets/music_1784319608615.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnaClara15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784319509998.jpg",
-    "cartao": "assets/cartao_gen_1784319509998.jpg",
+    "capa": "assets/cover_1784319608615.jpg",
+    "cartao": "assets/cartao_gen_1784319608615.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784319509998.mp4",
-      "assets/slide2_1784319509998.mp4",
-      "assets/slide3_1784319509998.mp4",
-      "assets/slide4_1784319509998.mp4"
+      "assets/slide1_1784319608615.mp4",
+      "assets/slide2_1784319608615.mp4",
+      "assets/slide3_1784319608615.mp4",
+      "assets/slide4_1784319608615.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784319509998.mp4",
+        "filePath": "assets/slide1_1784319608615.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784319509998.mp4",
+        "filePath": "assets/slide2_1784319608615.mp4",
         "label": "Slide 2",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1784319509998.mp4",
+        "filePath": "assets/slide3_1784319608615.mp4",
         "label": "Slide 3",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784319509998.mp4",
+        "filePath": "assets/slide4_1784319608615.mp4",
         "label": "Slide 4",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784319509998.jpg",
-    "folhaPreenchida": "assets/folha_1784319509998.jpg",
-    "musica": "assets/music_1784319509998.mp3",
+    "folhaVazia": "assets/folha_vazia_1784319608615.jpg",
+    "folhaPreenchida": "assets/folha_1784319608615.jpg",
+    "musica": "assets/music_1784319608615.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
