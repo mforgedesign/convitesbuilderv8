@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul, rosa/pink e branco",
     "tema": "Floral",
-    "musica": "assets/music_1784299505015.mp3",
+    "musica": "assets/music_1784305714887.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "GiorgiaCastelaniAscencao15Anos",
@@ -25,45 +25,45 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784299505015.png",
-    "cartao": "assets/cartao_gen_1784299505015.jpg",
+    "capa": "assets/cover_1784305714887.png",
+    "cartao": "assets/cartao_gen_1784305714887.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784299505015.mp4",
-      "assets/slide2_1784299505015.mp4",
-      "assets/slide3_1784299505015.mp4",
-      "assets/slide4_1784299505015.mp4",
-      "assets/slide5_1784299505015.mp4"
+      "assets/slide1_1784305714887.mp4",
+      "assets/slide2_1784305714887.mp4",
+      "assets/slide3_1784305714887.mp4",
+      "assets/slide4_1784305714887.mp4",
+      "assets/slide5_1784305714887.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784299505015.mp4",
+        "filePath": "assets/slide1_1784305714887.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784299505015.mp4",
+        "filePath": "assets/slide2_1784305714887.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1784299505015.mp4",
+        "filePath": "assets/slide3_1784305714887.mp4",
         "label": "Slide 2",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784299505015.mp4",
+        "filePath": "assets/slide4_1784305714887.mp4",
         "label": "Slide 3",
         "type": "video"
       },
       {
-        "filePath": "assets/slide5_1784299505015.mp4",
+        "filePath": "assets/slide5_1784305714887.mp4",
         "label": "Slide 4",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784299505015.png",
-    "folhaPreenchida": "assets/folha_1784299505015.jpg",
-    "musica": "assets/music_1784299505015.mp3",
+    "folhaVazia": "assets/folha_vazia_1784305714887.png",
+    "folhaPreenchida": "assets/folha_1784305714887.jpg",
+    "musica": "assets/music_1784305714887.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -128,7 +128,7 @@ window.config = {
     "lembrete": false
   },
   "config": {
-    "exibirMarcaDagua": true,
+    "exibirMarcaDagua": false,
     "cronometro": false,
     "buttonColor": "#d94f8b",
     "buttonSize": 1,
