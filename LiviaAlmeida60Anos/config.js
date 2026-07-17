@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Terracota, creme e dourado",
     "tema": "Elegante",
-    "musica": "assets/music_1784295769805.mp3",
+    "musica": "assets/music_1784296545197.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "LiviaAlmeida60Anos",
@@ -25,33 +25,33 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784295769805.png",
-    "cartao": "assets/cartao_gen_1784295769805.jpg",
+    "capa": "assets/cover_1784296545197.png",
+    "cartao": "assets/cartao_gen_1784296545197.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784295769805.mp4",
-      "assets/slide2_1784295769805.jpg",
-      "assets/slide3_1784295769805.jpg"
+      "assets/slide1_1784296545197.mp4",
+      "assets/slide2_1784296545197.jpg",
+      "assets/slide3_1784296545197.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784295769805.mp4",
+        "filePath": "assets/slide1_1784296545197.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784295769805.jpg",
+        "filePath": "assets/slide2_1784296545197.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1784295769805.jpg",
+        "filePath": "assets/slide3_1784296545197.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784295769805.png",
-    "folhaPreenchida": "assets/folha_1784295769805.jpg",
-    "musica": "assets/music_1784295769805.mp3",
+    "folhaVazia": "assets/folha_vazia_1784296545197.png",
+    "folhaPreenchida": "assets/folha_1784296545197.jpg",
+    "musica": "assets/music_1784296545197.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -81,7 +81,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Como Chegar",
       "icone": "fa-solid fa-location-dot",
-      "conteudo": "link pendente"
+      "conteudo": "https://maps.app.goo.gl/jorCNJGTnVLfXcAZ6"
     },
     {
       "tipoAcao": "RSVP",
