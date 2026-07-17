@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul, rosa/pink e branco",
     "tema": "Floral",
-    "musica": "assets/music_1784298663660.mp3",
+    "musica": "assets/music_1784298756702.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "GiorgiaCastelaniAscencao15Anos",
@@ -25,21 +25,21 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784298663660.png",
-    "cartao": "assets/cartao_gen_1784298663660.jpg",
+    "capa": "assets/cover_1784298756702.png",
+    "cartao": "assets/cartao_gen_1784298756702.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784298663660.mp4"
+      "assets/slide1_1784298756702.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784298663660.mp4",
+        "filePath": "assets/slide1_1784298756702.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784298663660.png",
-    "folhaPreenchida": "assets/folha_1784298663660.jpg",
-    "musica": "assets/music_1784298663660.mp3",
+    "folhaVazia": "assets/folha_vazia_1784298756702.png",
+    "folhaPreenchida": "assets/folha_1784298756702.jpg",
+    "musica": "assets/music_1784298756702.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
