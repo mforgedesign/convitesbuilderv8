@@ -4,7 +4,7 @@ window.config = {
     "nome": "Ana Clara",
     "idade": 15,
     "data": "2026-12-11",
-    "hora": "",
+    "hora": "18:00",
     "horaTermino": "",
     "endereco": "Castelo Country Club - Estrada Rio-Petrópolis, n.º 457, Km 82/83, Quitandinha.",
     "frase1": "",
@@ -13,51 +13,51 @@ window.config = {
   },
   "convite": {
     "paletaCores": "Tons de Lilás e Dourado",
-    "tema": "Princesa",
-    "musica": "assets/music_1784319608615.mp3",
+    "tema": "Rapunzel (Enrolados)",
+    "musica": "assets/music_1784388019739.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnaClara15Anos",
     "seo": {
-      "pageTitle": "",
+      "pageTitle": "Convite Especial",
       "ogTitle": "Você recebeu um convite especial!",
       "ogDescription": "Embarque nessa noite mágica. Clique para ver os detalhes."
     }
   },
   "assets": {
-    "capa": "assets/cover_1784319608615.jpg",
-    "cartao": "assets/cartao_gen_1784319608615.jpg",
+    "capa": "assets/cover_1784388019739.jpg",
+    "cartao": "assets/cartao_gen_1784388019739.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784319608615.mp4",
-      "assets/slide2_1784319608615.mp4",
-      "assets/slide3_1784319608615.mp4",
-      "assets/slide4_1784319608615.mp4"
+      "assets/slide1_1784388019739.mp4",
+      "assets/slide2_1784388019739.mp4",
+      "assets/slide3_1784388019739.mp4",
+      "assets/slide4_1784388019739.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784319608615.mp4",
+        "filePath": "assets/slide1_1784388019739.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784319608615.mp4",
+        "filePath": "assets/slide2_1784388019739.mp4",
         "label": "Slide 2",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1784319608615.mp4",
+        "filePath": "assets/slide3_1784388019739.mp4",
         "label": "Slide 3",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784319608615.mp4",
+        "filePath": "assets/slide4_1784388019739.mp4",
         "label": "Slide 4",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784319608615.jpg",
-    "folhaPreenchida": "assets/folha_1784319608615.jpg",
-    "musica": "assets/music_1784319608615.mp3",
+    "folhaVazia": "assets/folha_vazia_1784388019739.jpg",
+    "folhaPreenchida": "assets/folha_1784388019739.png",
+    "musica": "assets/music_1784388019739.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
