@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Tons de Lilás e Dourado",
     "tema": "Rapunzel (Enrolados)",
-    "musica": "assets/music_1784388019739.mp3",
+    "musica": "assets/music_1784465476468.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnaClara15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784388019739.jpg",
-    "cartao": "assets/cartao_gen_1784388019739.jpg",
+    "capa": "assets/cover_1784465476468.jpg",
+    "cartao": "assets/cartao_gen_1784465476468.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784388019739.mp4",
-      "assets/slide2_1784388019739.mp4",
-      "assets/slide3_1784388019739.mp4",
-      "assets/slide4_1784388019739.mp4"
+      "assets/slide1_1784465476468.mp4",
+      "assets/slide2_1784465476468.mp4",
+      "assets/slide3_1784465476468.mp4",
+      "assets/slide4_1784465476468.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784388019739.mp4",
+        "filePath": "assets/slide1_1784465476468.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784388019739.mp4",
+        "filePath": "assets/slide2_1784465476468.mp4",
         "label": "Slide 2",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1784388019739.mp4",
+        "filePath": "assets/slide3_1784465476468.mp4",
         "label": "Slide 3",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784388019739.mp4",
+        "filePath": "assets/slide4_1784465476468.mp4",
         "label": "Slide 4",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784388019739.jpg",
-    "folhaPreenchida": "assets/folha_1784388019739.png",
-    "musica": "assets/music_1784388019739.mp3",
+    "folhaVazia": "assets/folha_vazia_1784465476468.jpg",
+    "folhaPreenchida": "assets/folha_1784465476468.png",
+    "musica": "assets/music_1784465476468.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
