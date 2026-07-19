@@ -25,20 +25,20 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784421794611.jpg",
-    "cartao": "assets/cartao_gen_1784421794611.jpg",
+    "capa": "assets/cover_1784422105372.jpg",
+    "cartao": "assets/cartao_gen_1784422105372.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784421794611.mp4"
+      "assets/slide1_1784422105372.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784421794611.mp4",
+        "filePath": "assets/slide1_1784422105372.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784421794611.jpg",
-    "folhaPreenchida": "assets/folha_1784421794611.jpg",
+    "folhaVazia": "assets/folha_vazia_1784422105372.jpg",
+    "folhaPreenchida": "assets/folha_1784422105372.jpg",
     "musica": "",
     "fabric": {
       "saveTheDate": {
@@ -64,13 +64,6 @@ window.config = {
     "popupImagensPorBotao": {}
   },
   "botoes": [
-    {
-      "tipoAcao": "Link",
-      "tipoVisual": "css",
-      "titulo": "Como Chegar",
-      "icone": "fa-solid fa-location-dot",
-      "conteudo": "https://maps.app.goo.gl/apshuicUt4GEB1UW7"
-    },
     {
       "tipoAcao": "PopupHtml",
       "tipoVisual": "css",
