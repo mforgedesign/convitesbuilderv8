@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul, rosa/pink e branco",
     "tema": "Floral Mamma Mia",
-    "musica": "assets/music_1784474816734.mp3",
+    "musica": "assets/music_1784474996201.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "GiorgiaCastelaniAscencao-15Anos-NovaMusica",
@@ -25,45 +25,45 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784474816734.png",
-    "cartao": "assets/cartao_gen_1784474816734.jpg",
+    "capa": "assets/cover_1784474996201.png",
+    "cartao": "assets/cartao_gen_1784474996201.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784474816734.mp4",
-      "assets/slide2_1784474816734.mp4",
-      "assets/slide3_1784474816734.mp4",
-      "assets/slide4_1784474816734.mp4",
-      "assets/slide5_1784474816734.mp4"
+      "assets/slide1_1784474996201.mp4",
+      "assets/slide2_1784474996201.mp4",
+      "assets/slide3_1784474996201.mp4",
+      "assets/slide4_1784474996201.mp4",
+      "assets/slide5_1784474996201.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784474816734.mp4",
+        "filePath": "assets/slide1_1784474996201.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784474816734.mp4",
+        "filePath": "assets/slide2_1784474996201.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1784474816734.mp4",
+        "filePath": "assets/slide3_1784474996201.mp4",
         "label": "Slide 2",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784474816734.mp4",
+        "filePath": "assets/slide4_1784474996201.mp4",
         "label": "Slide 3",
         "type": "video"
       },
       {
-        "filePath": "assets/slide5_1784474816734.mp4",
+        "filePath": "assets/slide5_1784474996201.mp4",
         "label": "Slide 4",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784474816734.png",
-    "folhaPreenchida": "assets/folha_1784474816734.jpg",
-    "musica": "assets/music_1784474816734.mp3",
+    "folhaVazia": "assets/folha_vazia_1784474996201.png",
+    "folhaPreenchida": "assets/folha_1784474996201.jpg",
+    "musica": "assets/music_1784474996201.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -112,14 +112,14 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Guia dos Convidados",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "assets/73318b16_b852_46f6_be09_de1a6fb2e503_1784474816734.png"
+      "conteudo": "assets/73318b16_b852_46f6_be09_de1a6fb2e503_1784474996201.png"
     },
     {
       "tipoAcao": "PopupImagem",
       "tipoVisual": "css",
       "titulo": "Sugestões de Presentes",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/fd6804c8_5579_4f62_95d6_3dd6a0d74321_1784474816734.png"
+      "conteudo": "assets/fd6804c8_5579_4f62_95d6_3dd6a0d74321_1784474996201.png"
     }
   ],
   "upsell": {
