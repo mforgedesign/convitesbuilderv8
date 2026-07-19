@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul, rosa/pink e branco",
     "tema": "Floral Mamma Mia",
-    "musica": "assets/music_1784461344687.mp3",
+    "musica": "assets/music_1784461514995.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "GiorgiaCastelaniAscencao-15Anos-NovaMusica",
@@ -25,45 +25,45 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784461344687.png",
-    "cartao": "assets/cartao_gen_1784461344687.jpg",
+    "capa": "assets/cover_1784461514995.png",
+    "cartao": "assets/cartao_gen_1784461514995.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784461344687.mp4",
-      "assets/slide2_1784461344687.mp4",
-      "assets/slide3_1784461344687.mp4",
-      "assets/slide4_1784461344687.mp4",
-      "assets/slide5_1784461344687.mp4"
+      "assets/slide1_1784461514995.mp4",
+      "assets/slide2_1784461514995.mp4",
+      "assets/slide3_1784461514995.mp4",
+      "assets/slide4_1784461514995.mp4",
+      "assets/slide5_1784461514995.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784461344687.mp4",
+        "filePath": "assets/slide1_1784461514995.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784461344687.mp4",
+        "filePath": "assets/slide2_1784461514995.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1784461344687.mp4",
+        "filePath": "assets/slide3_1784461514995.mp4",
         "label": "Slide 2",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784461344687.mp4",
+        "filePath": "assets/slide4_1784461514995.mp4",
         "label": "Slide 3",
         "type": "video"
       },
       {
-        "filePath": "assets/slide5_1784461344687.mp4",
+        "filePath": "assets/slide5_1784461514995.mp4",
         "label": "Slide 4",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784461344687.png",
-    "folhaPreenchida": "assets/folha_1784461344687.jpg",
-    "musica": "assets/music_1784461344687.mp3",
+    "folhaVazia": "assets/folha_vazia_1784461514995.png",
+    "folhaPreenchida": "assets/folha_1784461514995.jpg",
+    "musica": "assets/music_1784461514995.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -115,7 +115,7 @@ window.config = {
     },
     {
       "tipoAcao": "PopupHtml",
-      "titulo": "Sugestoes de Presentes",
+      "titulo": "Sugestões de Presentes",
       "icone": "fa-solid fa-gift",
       "conteudo": "<div class=\"lp-root\">\n  <style>\n    .lp-root{\n      position:relative;\n      overflow:hidden;\n      padding:28px 16px 34px;\n      background:\n        radial-gradient(circle at top left, rgba(255,255,255,.95) 0 18%, rgba(255,255,255,0) 19%),\n        radial-gradient(circle at top right, rgba(255,255,255,.85) 0 14%, rgba(255,255,255,0) 15%),\n        linear-gradient(180deg, #f7fbff 0%, #eef6ff 45%, #ffffff 100%);\n      font-family: Arial, Helvetica, sans-serif;\n      color:#17324d;\n    }\n    .lp-root:before,\n    .lp-root:after{\n      content:\"\";\n      position:absolute;\n      inset:auto;\n      border-radius:50%;\n      pointer-events:none;\n      filter:blur(2px);\n      opacity:.55;\n    }\n    .lp-root:before{\n      width:220px;height:220px;left:-90px;top:-70px;\n      background:radial-gradient(circle, rgba(255,105,180,.18) 0%, rgba(255,105,180,0) 70%);\n    }\n    .lp-root:after{\n      width:260px;height:260px;right:-110px;bottom:-120px;\n      background:radial-gradient(circle, rgba(63,136,255,.16) 0%, rgba(63,136,255,0) 70%);\n    }\n    .snow{\n      position:absolute;\n      top:-12px;\n      width:8px;height:8px;\n      border-radius:50%;\n      background:rgba(255,255,255,.95);\n      box-shadow:0 0 0 1px rgba(255,255,255,.35), 0 0 10px rgba(255,255,255,.55);\n      animation:fall linear infinite;\n      z-index:1;\n      opacity:.85;\n    }\n    @keyframes fall{\n      0%{transform:translateY(-20px) translateX(0);opacity:0}\n      10%{opacity:.9}\n      100%{transform:translateY(760px) translateX(18px);opacity:0}\n    }\n    .lp-star{\n      position:absolute;\n      width:10px;height:10px;\n      color:#ff6fb1;\n      text-shadow:0 0 10px rgba(255,111,177,.45);\n      animation:twinkle 2.8s ease-in-out infinite;\n      z-index:1;\n    }\n    .lp-star:before{\n      content:\"✦\";\n      font-style:normal;\n      font-size:12px;\n      line-height:1;\n    }\n    @keyframes twinkle{\n      0%,100%{transform:scale(.85);opacity:.55}\n      50%{transform:scale(1.15);opacity:1}\n    }\n    .lp-wrap{\n      position:relative;\n      z-index:2;\n      max-width:760px;\n      margin:0 auto;\n      background:rgba(255,255,255,.82);\n      border:1px solid rgba(63,136,255,.12);\n      border-radius:28px;\n      box-shadow:0 18px 50px rgba(30,60,90,.12);\n      backdrop-filter:blur(8px);\n      padding:22px 18px 18px;\n    }\n    .lp-header{\n      text-align:center;\n      padding:6px 8px 14px;\n    }\n    .lp-header h2{\n      margin:0;\n      font-size:26px;\n      line-height:1.1;\n      letter-spacing:.4px;\n      color:#1f4f86;\n      font-weight:800;\n    }\n    .lp-header .sub{\n      margin:10px auto 0;\n      max-width:620px;\n      font-size:14px;\n      line-height:1.55;\n      color:#4d5f73;\n      font-weight:500;\n    }\n    .badge{\n      display:inline-block;\n      margin-top:12px;\n      padding:8px 14px;\n      border-radius:999px;\n      background:linear-gradient(90deg, rgba(63,136,255,.12), rgba(255,111,177,.12));\n      color:#1f4f86;\n      border:1px solid rgba(63,136,255,.18);\n      font-size:12px;\n      font-weight:700;\n      letter-spacing:.3px;\n    }\n    .lp-grid{\n      display:grid;\n      grid-template-columns:1fr;\n      gap:12px;\n      margin-top:8px;\n    }\n    .lp-card{\n      display:flex;\n      gap:14px;\n      align-items:flex-start;\n      background:linear-gradient(180deg, rgba(255,255,255,.98), rgba(247,251,255,.96));\n      border:1px solid rgba(31,79,134,.10);\n      border-radius:20px;\n      padding:14px 14px 13px;\n      box-shadow:0 8px 22px rgba(31,79,134,.06);\n      animation:rise .6s ease both;\n    }\n    @keyframes rise{\n      from{transform:translateY(10px);opacity:0}\n      to{transform:translateY(0);opacity:1}\n    }\n    .lp-icon{\n      width:42px;height:42px;\n      min-width:42px;\n      border-radius:14px;\n      display:flex;\n      align-items:center;\n      justify-content:center;\n      font-size:18px;\n      box-shadow:inset 0 1px 0 rgba(255,255,255,.7), 0 8px 18px rgba(0,0,0,.08);\n      border:1px solid rgba(255,255,255,.65);\n    }\n    .icon-blue{background:linear-gradient(135deg,#dff0ff,#7fc0ff);color:#1f4f86;}\n    .icon-silver{background:linear-gradient(135deg,#f7f8fb,#cfd7e3);color:#6b7c91;}\n    .icon-light{background:linear-gradient(135deg,#fff7fb,#ffd6ea);color:#c04f86;}\n    .icon-deep{background:linear-gradient(135deg,#e9f0ff,#a8c2ff);color:#244f9b;}\n    .icon-ice{background:linear-gradient(135deg,#eefcff,#c8f0ff);color:#2a7ea8;}\n    .lp-title{\n      font-size:12px;\n      text-transform:uppercase;\n      letter-spacing:.9px;\n      color:#ff6fb1;\n      font-weight:800;\n      margin-bottom:4px;\n    }\n    .lp-name{\n      font-size:15px;\n      line-height:1.45;\n      color:#17324d;\n      font-weight:700;\n    }\n    .lp-tip{\n      display:inline-block;\n      margin-top:8px;\n      font-size:12px;\n      line-height:1.35;\n      color:#5c6f82;\n      background:rgba(63,136,255,.08);\n      border-left:3px solid #ff6fb1;\n      padding:8px 10px;\n      border-radius:10px;\n    }\n    .lp-divider{\n      margin:18px 0 14px;\n      text-align:center;\n      color:#1f4f86;\n      font-size:12px;\n      font-weight:800;\n      letter-spacing:1px;\n      text-transform:uppercase;\n      position:relative;\n    }\n    .lp-divider:before,\n    .lp-divider:after{\n      content:\"\";\n      position:absolute;\n      top:50%;\n      width:28%;\n      height:1px;\n      background:linear-gradient(90deg, transparent, rgba(63,136,255,.35), transparent);\n    }\n    .lp-divider:before{left:0}\n    .lp-divider:after{right:0}\n    .pix-box{\n      background:linear-gradient(180deg, #ffffff, #f7fbff);\n      border:1px solid rgba(63,136,255,.14);\n      border-radius:22px;\n      padding:16px 14px 14px;\n      box-shadow:0 10px 24px rgba(31,79,134,.06);\n    }\n    .pix-row{\n      display:flex;\n      gap:12px;\n      align-items:flex-start;\n      margin-bottom:12px;\n    }\n    .pix-icon-wrap{\n      width:44px;height:44px;\n      border-radius:14px;\n      display:flex;\n      align-items:center;\n      justify-content:center;\n      background:linear-gradient(135deg,#dff0ff,#ffdeef);\n      color:#1f4f86;\n      border:1px solid rgba(255,255,255,.8);\n      box-shadow:0 8px 18px rgba(0,0,0,.08);\n      font-size:18px;\n      min-width:44px;\n    }\n    .pix-label{\n      font-size:14px;\n      font-weight:800;\n      color:#1f4f86;\n      margin-bottom:4px;\n    }\n    .pix-sub{\n      font-size:13px;\n      line-height:1.45;\n      color:#5c6f82;\n    }\n    .pix-key-wrap{\n      display:flex;\n      gap:10px;\n      align-items:center;\n      flex-wrap:wrap;\n    }\n    .pix-key{\n      flex:1 1 auto;\n      display:block;\n      padding:12px 14px;\n      border-radius:14px;\n      background:#fff;\n      border:1px dashed rgba(255,111,177,.45);\n      color:#17324d;\n      font-size:13px;\n      font-weight:700;\n      word-break:break-all;\n    }\n    .pix-copy-btn{\n      appearance:none;\n      border:0;\n      cursor:pointer;\n      padding:12px 14px;\n      border-radius:14px;\n      background:linear-gradient(90deg,#1f4f86,#ff6fb1);\n      color:#fff;\n      font-size:13px;\n      font-weight:800;\n      display:inline-flex;\n      align-items:center;\n      gap:8px;\n      box-shadow:0 10px 18px rgba(31,79,134,.18);\n    }\n    .pix-copied{\n      margin-top:10px;\n      font-size:12px;\n      font-weight:700;\n      color:#ff6fb1;\n      transition:opacity .25s ease;\n      text-align:center;\n    }\n    .lp-footer{\n      margin-top:16px;\n      text-align:center;\n      padding:4px 8px 0;\n    }\n    .lp-footer-text{\n      font-size:13px;\n      line-height:1.55;\n      color:#4d5f73;\n      font-weight:500;\n    }\n    .lp-footer-accent{\n      display:inline-block;\n      margin-top:8px;\n      font-size:12px;\n      font-weight:800;\n      color:#1f4f86;\n      letter-spacing:.4px;\n      text-transform:uppercase;\n    }\n    @media (min-width:720px){\n      .lp-root{padding:40px 22px 46px}\n      .lp-wrap{padding:28px 28px 24px}\n      .lp-header h2{font-size:32px}\n      .lp-grid{grid-template-columns:1fr 1fr}\n      .lp-card:last-child{grid-column:1 / -1}\n    }\n  </style>\n\n  <span class=\"snow\" style=\"left:8%;animation-duration:6s;animation-delay:0s;\"></span>\n  <span class=\"snow\" style=\"left:22%;animation-duration:8s;animation-delay:1.2s;font-size:9px;\"></span>\n  <span class=\"snow\" style=\"left:38%;animation-duration:7s;animation-delay:2.5s;\"></span>\n  <span class=\"snow\" style=\"left:55%;animation-duration:9s;animation-delay:.8s;font-size:9px;\"></span>\n  <span class=\"snow\" style=\"left:70%;animation-duration:6.5s;animation-delay:3s;\"></span>\n  <span class=\"snow\" style=\"left:85%;animation-duration:8.5s;animation-delay:1.8s;font-size:10px;\"></span>\n\n  <i class=\"lp-star\" style=\"top:9%;left:7%;animation-delay:0s;\"></i>\n  <i class=\"lp-star\" style=\"top:20%;right:13%;animation-delay:1s;\"></i>\n  <i class=\"lp-star\" style=\"bottom:22%;left:12%;animation-delay:2s;\"></i>\n  <i class=\"lp-star\" style=\"bottom:10%;right:9%;animation-delay:.5s;\"></i>\n\n  <div class=\"lp-wrap\">\n    <div class=\"lp-header\">\n      <h2>Lista de Presentes</h2>\n      <p class=\"sub\">Sugestões pensadas com carinho para celebrar este momento especial.</p>\n      <span class=\"badge\">Debutante</span>\n    </div>\n\n    <div class=\"lp-grid\">\n      <div class=\"lp-card\" style=\"animation-delay:.05s\">\n        <div class=\"lp-icon icon-silver\"><i class=\"fa-solid fa-gem\"></i></div>\n        <div>\n          <div class=\"lp-title\">Sugestão de presente</div>\n          <div class=\"lp-name\">Acessórios prateados.</div>\n        </div>\n      </div>\n\n      <div class=\"lp-card\" style=\"animation-delay:.10s\">\n        <div class=\"lp-icon icon-blue\"><i class=\"fa-solid fa-spray-can-sparkles\"></i></div>\n        <div>\n          <div class=\"lp-title\">Sugestão de presente</div>\n          <div class=\"lp-name\">Perfumes e cremes cítricos e/ou florais.</div>\n        </div>\n      </div>\n\n      <div class=\"lp-card\" style=\"animation-delay:.15s\">\n        <div class=\"lp-icon icon-light\"><i class=\"fa-solid fa-shirt\"></i></div>\n        <div>\n          <div class=\"lp-title\">Tamanho de roupa</div>\n          <div class=\"lp-name\">Blusas tamanho P.</div>\n        </div>\n      </div>\n\n      <div class=\"lp-card\" style=\"animation-delay:.20s\">\n        <div class=\"lp-icon icon-deep\"><i class=\"fa-solid fa-palette\"></i></div>\n        <div>\n          <div class=\"lp-title\">Sugestão de presente</div>\n          <div class=\"lp-name\">Maquiagens e/ou itens de beleza.</div>\n        </div>\n      </div>\n\n      <div class=\"lp-card\" style=\"animation-delay:.25s\">\n        <div class=\"lp-icon icon-ice\"><i class=\"fa-solid fa-shoe-prints\"></i></div>\n        <div>\n          <div class=\"lp-title\">Tamanho de roupa e calçado</div>\n          <div class=\"lp-name\">Calças, saias e shorts: tamanho 38/40. Calçados 37.</div>\n          <span class=\"lp-tip\">Sugestão para facilitar a escolha do presente.</span>\n        </div>\n      </div>\n    </div>\n\n    <div class=\"lp-divider\">Pix e contribuições</div>\n\n    <div class=\"pix-box\">\n      <div class=\"pix-row\">\n        <div class=\"pix-icon-wrap\"><i class=\"fa-solid fa-qrcode\"></i></div>\n        <div>\n          <div class=\"pix-label\">Contribuição via Pix</div>\n          <div class=\"pix-sub\">Caso prefira, você também pode presentear com uma contribuição financeira.</div>\n        </div>\n      </div>\n      <div class=\"pix-key-wrap\">\n        <span class=\"pix-key\" id=\"pixKey\">Chave Pix não informada</span>\n        <button class=\"pix-copy-btn\" onclick=\"var key = document.getElementById('pixKey').textContent.trim(); if (navigator.clipboard) { navigator.clipboard.writeText(key).then(function() { var el = document.getElementById('copiedMsg'); el.style.opacity = '1'; setTimeout(function(){ el.style.opacity = '0'; }, 2000); }); } else { var ta = document.createElement('textarea'); ta.value = key; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta); var el = document.getElementById('copiedMsg'); el.style.opacity = '1'; setTimeout(function(){ el.style.opacity = '0'; }, 2000); }\">\n          <i class=\"fa-solid fa-copy\" style=\"font-size:12px;\"></i>Copiar\n        </button>\n      </div>\n      <div class=\"pix-copied\" id=\"copiedMsg\" style=\"opacity:0;\">Chave copiada!</div>\n    </div>\n\n    <div class=\"lp-footer\">\n      <div class=\"lp-footer-text\">Seu carinho e sua presença já são o maior presente.</div>\n      <span class=\"lp-footer-accent\">Com amor e gratidão</span>\n    </div>\n  </div>\n</div>"
     }
