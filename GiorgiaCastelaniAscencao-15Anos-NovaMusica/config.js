@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul, rosa/pink e branco",
     "tema": "Floral Mamma Mia",
-    "musica": "assets/music_1784467626915.mp3",
+    "musica": "assets/music_1784468561742.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "GiorgiaCastelaniAscencao-15Anos-NovaMusica",
@@ -25,45 +25,45 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784467626915.png",
-    "cartao": "assets/cartao_gen_1784467626915.jpg",
+    "capa": "assets/cover_1784468561742.png",
+    "cartao": "assets/cartao_gen_1784468561742.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784467626915.mp4",
-      "assets/slide2_1784467626915.mp4",
-      "assets/slide3_1784467626915.mp4",
-      "assets/slide4_1784467626915.mp4",
-      "assets/slide5_1784467626915.mp4"
+      "assets/slide1_1784468561742.mp4",
+      "assets/slide2_1784468561742.mp4",
+      "assets/slide3_1784468561742.mp4",
+      "assets/slide4_1784468561742.mp4",
+      "assets/slide5_1784468561742.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784467626915.mp4",
+        "filePath": "assets/slide1_1784468561742.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784467626915.mp4",
+        "filePath": "assets/slide2_1784468561742.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1784467626915.mp4",
+        "filePath": "assets/slide3_1784468561742.mp4",
         "label": "Slide 2",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784467626915.mp4",
+        "filePath": "assets/slide4_1784468561742.mp4",
         "label": "Slide 3",
         "type": "video"
       },
       {
-        "filePath": "assets/slide5_1784467626915.mp4",
+        "filePath": "assets/slide5_1784468561742.mp4",
         "label": "Slide 4",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784467626915.png",
-    "folhaPreenchida": "assets/folha_1784467626915.jpg",
-    "musica": "assets/music_1784467626915.mp3",
+    "folhaVazia": "assets/folha_vazia_1784468561742.png",
+    "folhaPreenchida": "assets/folha_1784468561742.jpg",
+    "musica": "assets/music_1784468561742.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -86,7 +86,7 @@ window.config = {
     },
     "fotos": [],
     "popupImagensPorBotao": {
-      "3": "assets/popup_presentes_premium_referencia_1784467626915.jpg"
+      "3": "assets/popup_presentes_premium_apenas_referencia_1784468561742.jpg"
     }
   },
   "botoes": [
@@ -121,7 +121,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Sugestões de Presentes",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/popup_presentes_premium_referencia_1784467626915.jpg"
+      "conteudo": "assets/popup_presentes_premium_apenas_referencia_1784468561742.jpg"
     }
   ],
   "upsell": {
