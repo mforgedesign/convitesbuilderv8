@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosê, dourado e preto",
     "tema": "Elegante",
-    "musica": "assets/music_1784484717100.mp3",
+    "musica": "assets/music_1784484963494.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "Ana-Lais",
@@ -25,21 +25,21 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784484717100.png",
-    "cartao": "assets/0c644f91_e1e6_4f4c_8b87_3cd8751f13be_1784484717100.png",
+    "capa": "assets/cover_1784484963494.png",
+    "cartao": "assets/0c644f91_e1e6_4f4c_8b87_3cd8751f13be_1784484963494.png",
     "aberturaSlides": [
-      "assets/slide1_1784484717100.mp4"
+      "assets/slide1_1784484963494.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784484717100.mp4",
+        "filePath": "assets/slide1_1784484963494.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784484717100.jpg",
-    "folhaPreenchida": "assets/folha_1784484717100.jpg",
-    "musica": "assets/music_1784484717100.mp3",
+    "folhaVazia": "assets/folha_vazia_1784484963494.jpg",
+    "folhaPreenchida": "assets/folha_1784484963494.jpg",
+    "musica": "assets/music_1784484963494.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -88,7 +88,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "assets/popup_manual_premium_1784484717100.jpg"
+      "conteudo": "assets/popup_manual_premium_1784484963494.jpg"
     },
     {
       "tipoAcao": "PopupHtml",
