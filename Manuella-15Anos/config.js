@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul Marinho com Prata",
     "tema": "Céu Estrelado",
-    "musica": "assets/music_1784579713837.mp3",
+    "musica": "assets/music_1784579767797.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Manuella-15Anos",
@@ -25,33 +25,33 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784579713837.png",
-    "cartao": "assets/cartao_chatgpt_1784579713837.jpg",
+    "capa": "assets/cover_1784579767797.png",
+    "cartao": "assets/cartao_chatgpt_1784579767797.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784579713837.mp4",
-      "assets/slide2_1784579713837.mp4",
-      "assets/slide3_1784579713837.mp4"
+      "assets/slide1_1784579767797.mp4",
+      "assets/slide2_1784579767797.mp4",
+      "assets/slide3_1784579767797.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784579713837.mp4",
+        "filePath": "assets/slide1_1784579767797.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784579713837.mp4",
+        "filePath": "assets/slide2_1784579767797.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1784579713837.mp4",
+        "filePath": "assets/slide3_1784579767797.mp4",
         "label": "Slide 2",
         "type": "video"
       }
     ],
     "folhaVazia": "",
-    "folhaPreenchida": "assets/folha_1784579713837.png",
-    "musica": "assets/music_1784579713837.mp3",
+    "folhaPreenchida": "assets/folha_1784579767797.png",
+    "musica": "assets/music_1784579767797.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -102,7 +102,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Confirmar Presença",
       "icone": "fa-solid fa-check",
-      "whatsapp": "5511988509403",
+      "whatsapp": "5511967140092",
       "rsvpConfig": {
         "exibirNome": true,
         "exibirWhatsapp": false,
