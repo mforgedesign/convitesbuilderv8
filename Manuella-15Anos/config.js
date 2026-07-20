@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul Marinho com Prata",
     "tema": "Céu Estrelado",
-    "musica": "assets/music_1784580237295.mp3",
+    "musica": "assets/music_1784580373151.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Manuella-15Anos",
@@ -25,33 +25,33 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784580237295.png",
-    "cartao": "assets/cartao_chatgpt_1784580237295.jpg",
+    "capa": "assets/cover_1784580373151.png",
+    "cartao": "assets/cartao_chatgpt_1784580373151.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784580237295.mp4",
-      "assets/slide2_1784580237295.mp4",
-      "assets/slide3_1784580237295.mp4"
+      "assets/slide1_1784580373151.mp4",
+      "assets/slide2_1784580373151.mp4",
+      "assets/slide3_1784580373151.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784580237295.mp4",
+        "filePath": "assets/slide1_1784580373151.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784580237295.mp4",
+        "filePath": "assets/slide2_1784580373151.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1784580237295.mp4",
+        "filePath": "assets/slide3_1784580373151.mp4",
         "label": "Slide 2",
         "type": "video"
       }
     ],
     "folhaVazia": "",
-    "folhaPreenchida": "assets/folha_1784580237295.png",
-    "musica": "assets/music_1784580237295.mp3",
+    "folhaPreenchida": "assets/folha_1784580373151.png",
+    "musica": "assets/music_1784580373151.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -81,7 +81,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Como Chegar",
       "icone": "fa-solid fa-location-dot",
-      "conteudo": "https://maps.app.goo.gl/apshuicUt4GEB1UW7"
+      "conteudo": "https://maps.app.goo.gl/fFQJizVi2F9Hyhp6A"
     },
     {
       "tipoAcao": "PopupHtml",
