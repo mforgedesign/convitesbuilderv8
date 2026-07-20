@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosé, dourado e rosa bebê",
     "tema": "Floral",
-    "musica": "assets/music_1784571223868.mp3",
+    "musica": "assets/music_1784571386849.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "BiancaRibeiro15Anos",
@@ -25,21 +25,21 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784571223868.png",
-    "cartao": "assets/cartao_chatgpt_1784571223868.jpg",
+    "capa": "assets/cover_1784571386849.png",
+    "cartao": "assets/cartao_chatgpt_1784571386849.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784571223868.mp4"
+      "assets/slide1_1784571386849.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784571223868.mp4",
+        "filePath": "assets/slide1_1784571386849.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784571223868.png",
-    "folhaPreenchida": "assets/folha_1784571223868.png",
-    "musica": "assets/music_1784571223868.mp3",
+    "folhaVazia": "assets/folha_vazia_1784571386849.png",
+    "folhaPreenchida": "assets/folha_1784571386849.jpg",
+    "musica": "assets/music_1784571386849.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -88,14 +88,14 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "assets/popup_manual_premium_1784571223868.jpg"
+      "conteudo": "assets/popup_manual_premium_1784571386849.jpg"
     },
     {
       "tipoAcao": "PopupImagem",
       "tipoVisual": "css",
       "titulo": "Sugestões de Presentes",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/popup_presentes_premium_1784571223868.jpg"
+      "conteudo": "assets/popup_presentes_premium_1784571386849.jpg"
     }
   ],
   "upsell": {
