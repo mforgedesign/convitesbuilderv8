@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosé, dourado e rosa bebê",
     "tema": "Floral",
-    "musica": "assets/music_1784573181652.mp3",
+    "musica": "assets/music_1784585767475.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "BiancaRibeiro15Anos",
@@ -25,21 +25,21 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784573181652.png",
-    "cartao": "assets/cartao_chatgpt_1784573181652.jpg",
+    "capa": "assets/cover_1784585767475.png",
+    "cartao": "assets/cartao_chatgpt_1784585767475.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784573181652.mp4"
+      "assets/slide1_1784585767475.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784573181652.mp4",
+        "filePath": "assets/slide1_1784585767475.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784573181652.png",
-    "folhaPreenchida": "assets/folha_1784573181652.jpg",
-    "musica": "assets/music_1784573181652.mp3",
+    "folhaVazia": "assets/folha_vazia_1784585767475.png",
+    "folhaPreenchida": "assets/folha_1784585767475.jpg",
+    "musica": "assets/music_1784585767475.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -88,14 +88,14 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "assets/popup_manual_premium_1784573181652.jpg"
+      "conteudo": "assets/popup_manual_premium_1784585767475.jpg"
     },
     {
       "tipoAcao": "PopupImagem",
       "tipoVisual": "css",
       "titulo": "Sugestões de Presentes",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/popup_presentes_premium_1784573181652.jpg"
+      "conteudo": "assets/popup_presentes_premium_1784585767475.jpg"
     }
   ],
   "upsell": {
@@ -104,7 +104,7 @@ window.config = {
     "lembrete": false
   },
   "config": {
-    "exibirMarcaDagua": false,
+    "exibirMarcaDagua": true,
     "cronometro": true,
     "buttonColor": "#b76e79",
     "buttonSize": 1,
