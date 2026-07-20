@@ -14,32 +14,32 @@ window.config = {
   "convite": {
     "paletaCores": "Rosé, dourado e rosa bebê",
     "tema": "Floral",
-    "musica": "assets/music_1784571809115.mp3",
+    "musica": "assets/music_1784573181652.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "BiancaRibeiro15Anos",
     "seo": {
-      "pageTitle": "",
+      "pageTitle": "Convite Especial",
       "ogTitle": "Você recebeu um convite especial!",
       "ogDescription": "Embarque nessa noite mágica. Clique para ver os detalhes."
     }
   },
   "assets": {
-    "capa": "assets/cover_1784571809115.png",
-    "cartao": "assets/cartao_chatgpt_1784571809115.jpg",
+    "capa": "assets/cover_1784573181652.png",
+    "cartao": "assets/cartao_chatgpt_1784573181652.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784571809115.mp4"
+      "assets/slide1_1784573181652.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784571809115.mp4",
+        "filePath": "assets/slide1_1784573181652.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784571809115.png",
-    "folhaPreenchida": "assets/folha_1784571809115.jpg",
-    "musica": "assets/music_1784571809115.mp3",
+    "folhaVazia": "assets/folha_vazia_1784573181652.png",
+    "folhaPreenchida": "assets/folha_1784573181652.jpg",
+    "musica": "assets/music_1784573181652.mp3",
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -88,14 +88,14 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "assets/popup_manual_premium_1784571809115.jpg"
+      "conteudo": "assets/popup_manual_premium_1784573181652.jpg"
     },
     {
       "tipoAcao": "PopupImagem",
       "tipoVisual": "css",
       "titulo": "Sugestões de Presentes",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/popup_presentes_premium_1784571809115.jpg"
+      "conteudo": "assets/popup_presentes_premium_1784573181652.jpg"
     }
   ],
   "upsell": {
