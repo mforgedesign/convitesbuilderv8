@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Lilás com Verde Menta",
     "tema": "Elegante",
-    "musica": "assets/music_1784843273403.mp3",
+    "musica": "assets/music_1784845221214.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Crystal-Heloise15Anos",
@@ -25,43 +25,43 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784843273403.png",
-    "cartao": "assets/cartao_chatgpt_1784843273403.jpg",
+    "capa": "assets/cover_1784845221214.png",
+    "cartao": "assets/cartao_chatgpt_1784845221214.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784843273403.mp4",
-      "assets/slide2_1784843273403.jpg",
-      "assets/slide3_1784843273403.mp4",
-      "assets/slide4_1784843273403.mp4"
+      "assets/slide1_1784845221214.mp4",
+      "assets/slide2_1784845221214.jpg",
+      "assets/slide3_1784845221214.mp4",
+      "assets/slide4_1784845221214.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784843273403.mp4",
+        "filePath": "assets/slide1_1784845221214.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784843273403.jpg",
+        "filePath": "assets/slide2_1784845221214.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1784843273403.mp4",
+        "filePath": "assets/slide3_1784845221214.mp4",
         "label": "Slide 3",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784843273403.mp4",
+        "filePath": "assets/slide4_1784845221214.mp4",
         "label": "Erro",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784843273403.png",
-    "folhaPreenchida": "assets/folha_1784843273403.jpg",
-    "musica": "assets/music_1784843273403.mp3",
+    "folhaVazia": "assets/folha_vazia_1784845221214.png",
+    "folhaPreenchida": "assets/folha_1784845221214.jpg",
+    "musica": "assets/music_1784845221214.mp3",
     "fabric": {
       "saveTheDate": {
-        "referencia": "assets/fabric_save_the_date_ref_1784843273403.jpg",
-        "resultado": "assets/save_the_date_1784841017704_1784843273403.mp4",
+        "referencia": "assets/fabric_save_the_date_ref_1784845221214.jpg",
+        "resultado": "assets/save_the_date_1784841017704_1784845221214.mp4",
         "musicaPersonalizada": "",
         "musicSource": "convite",
         "hasMusic": true,
@@ -69,8 +69,8 @@ window.config = {
         "durationSec": 20
       },
       "lembrete": {
-        "referencia": "assets/fabric_lembrete_ref_1784843273403.jpg",
-        "resultado": "assets/lembrete_1784841120612_1784843273403.mp4",
+        "referencia": "assets/fabric_lembrete_ref_1784845221214.jpg",
+        "resultado": "assets/lembrete_1784841120612_1784845221214.mp4",
         "musicaPersonalizada": "",
         "musicSource": "convite",
         "hasMusic": true,
@@ -79,20 +79,20 @@ window.config = {
       }
     },
     "fotos": [
-      "assets/foto1_1784843273403.jpeg",
-      "assets/foto2_1784843273403.jpeg",
-      "assets/foto3_1784843273403.jpeg",
-      "assets/foto4_1784843273403.jpeg",
-      "assets/foto5_1784843273403.jpeg",
-      "assets/foto6_1784843273403.jpeg",
-      "assets/foto7_1784843273403.jpeg",
-      "assets/foto8_1784843273403.jpeg",
-      "assets/foto9_1784843273403.jpeg",
-      "assets/foto10_1784843273403.jpeg",
-      "assets/foto11_1784843273403.jpeg",
-      "assets/foto12_1784843273403.jpeg",
-      "assets/foto13_1784843273403.jpeg",
-      "assets/foto14_1784843273403.jpeg"
+      "assets/foto1_1784845221214.jpeg",
+      "assets/foto2_1784845221214.jpeg",
+      "assets/foto3_1784845221214.jpeg",
+      "assets/foto4_1784845221214.jpeg",
+      "assets/foto5_1784845221214.jpeg",
+      "assets/foto6_1784845221214.jpeg",
+      "assets/foto7_1784845221214.jpeg",
+      "assets/foto8_1784845221214.jpeg",
+      "assets/foto9_1784845221214.jpeg",
+      "assets/foto10_1784845221214.jpeg",
+      "assets/foto11_1784845221214.jpeg",
+      "assets/foto12_1784845221214.jpeg",
+      "assets/foto13_1784845221214.jpeg",
+      "assets/foto14_1784845221214.jpeg"
     ],
     "popupImagensPorBotao": {}
   },
@@ -119,20 +119,20 @@ window.config = {
       "titulo": "Galeria de Fotos",
       "icone": "fa-solid fa-images",
       "conteudo": [
-        "assets/foto1_1784843273403.jpeg",
-        "assets/foto2_1784843273403.jpeg",
-        "assets/foto3_1784843273403.jpeg",
-        "assets/foto4_1784843273403.jpeg",
-        "assets/foto5_1784843273403.jpeg",
-        "assets/foto6_1784843273403.jpeg",
-        "assets/foto7_1784843273403.jpeg",
-        "assets/foto8_1784843273403.jpeg",
-        "assets/foto9_1784843273403.jpeg",
-        "assets/foto10_1784843273403.jpeg",
-        "assets/foto11_1784843273403.jpeg",
-        "assets/foto12_1784843273403.jpeg",
-        "assets/foto13_1784843273403.jpeg",
-        "assets/foto14_1784843273403.jpeg"
+        "assets/foto1_1784845221214.jpeg",
+        "assets/foto2_1784845221214.jpeg",
+        "assets/foto3_1784845221214.jpeg",
+        "assets/foto4_1784845221214.jpeg",
+        "assets/foto5_1784845221214.jpeg",
+        "assets/foto6_1784845221214.jpeg",
+        "assets/foto7_1784845221214.jpeg",
+        "assets/foto8_1784845221214.jpeg",
+        "assets/foto9_1784845221214.jpeg",
+        "assets/foto10_1784845221214.jpeg",
+        "assets/foto11_1784845221214.jpeg",
+        "assets/foto12_1784845221214.jpeg",
+        "assets/foto13_1784845221214.jpeg",
+        "assets/foto14_1784845221214.jpeg"
       ]
     },
     {
@@ -147,7 +147,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Sugestões de Presentes",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/popup_presentes_premium_1784843273403.jpg"
+      "conteudo": "assets/popup_presentes_premium_1784845221214.jpg"
     }
   ],
   "upsell": {
