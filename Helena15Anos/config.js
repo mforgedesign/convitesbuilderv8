@@ -14,50 +14,50 @@ window.config = {
   "convite": {
     "paletaCores": "Tons de Verde, nude e dourado",
     "tema": "Princesa",
-    "musica": "assets/music_1784990937598.mp3",
+    "musica": "assets/music_1784996187132.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Helena15Anos",
     "seo": {
-      "pageTitle": "",
+      "pageTitle": "Convite Especial",
       "ogTitle": "Você recebeu um convite especial!",
       "ogDescription": "Embarque nessa noite mágica. Clique para ver os detalhes."
     }
   },
   "assets": {
-    "capa": "assets/cover_1784990937598.jpg",
-    "cartao": "assets/cartao_chatgpt_1784990937598.jpg",
+    "capa": "assets/cover_1784996187132.jpg",
+    "cartao": "assets/cartao_chatgpt_1784996187132.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784990937598.mp4",
-      "assets/slide2_1784990937598.jpg",
-      "assets/slide3_1784990937598.mp4",
-      "assets/slide4_1784990937598.jpg"
+      "assets/slide1_1784996187132.mp4",
+      "assets/slide2_1784996187132.jpg",
+      "assets/slide3_1784996187132.mp4",
+      "assets/slide4_1784996187132.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784990937598.mp4",
+        "filePath": "assets/slide1_1784996187132.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784990937598.jpg",
+        "filePath": "assets/slide2_1784996187132.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1784990937598.mp4",
+        "filePath": "assets/slide3_1784996187132.mp4",
         "label": "Cena Temática",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784990937598.jpg",
+        "filePath": "assets/slide4_1784996187132.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784990937598.jpg",
-    "folhaPreenchida": "assets/folha_1784990937598.jpg",
-    "musica": "assets/music_1784990937598.mp3",
+    "folhaVazia": "assets/folha_vazia_1784996187132.jpg",
+    "folhaPreenchida": "assets/folha_1784996187132.jpg",
+    "musica": "assets/music_1784996187132.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -108,14 +108,14 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "assets/popup_manual_premium_1784990937598.jpg"
+      "conteudo": "assets/popup_manual_premium_1784996187132.jpg"
     },
     {
       "tipoAcao": "PopupImagem",
       "tipoVisual": "css",
       "titulo": "Sugestões de Presentes",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/popup_presentes_premium_1784990937598.jpg"
+      "conteudo": "assets/popup_presentes_premium_1784996187132.jpg"
     }
   ],
   "upsell": {
