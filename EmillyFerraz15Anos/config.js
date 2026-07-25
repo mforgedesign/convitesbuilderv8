@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Dourado com Magenta",
     "tema": "Baile de Máscaras",
-    "musica": "assets/music_1785002351185.mp3",
+    "musica": "assets/music_1785002448781.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "EmillyFerraz15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785002351185.png",
-    "cartao": "assets/d97110df_06f3_4976_93f5_503bdb82d50b_1785002351185.png",
+    "capa": "assets/cover_1785002448781.png",
+    "cartao": "assets/d97110df_06f3_4976_93f5_503bdb82d50b_1785002448781.png",
     "aberturaSlides": [
-      "assets/slide1_1785002351185.mp4",
-      "assets/slide2_1785002351185.jpg",
-      "assets/slide3_1785002351185.mp4",
-      "assets/slide4_1785002351185.jpg"
+      "assets/slide1_1785002448781.mp4",
+      "assets/slide2_1785002448781.jpg",
+      "assets/slide3_1785002448781.mp4",
+      "assets/slide4_1785002448781.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785002351185.mp4",
+        "filePath": "assets/slide1_1785002448781.mp4",
         "label": "Abertura (Video)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785002351185.jpg",
+        "filePath": "assets/slide2_1785002448781.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1785002351185.mp4",
+        "filePath": "assets/slide3_1785002448781.mp4",
         "label": "Cena Tematica",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785002351185.jpg",
+        "filePath": "assets/slide4_1785002448781.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785002351185.png",
-    "folhaPreenchida": "assets/folha_1785002351185.jpg",
-    "musica": "assets/music_1785002351185.mp3",
+    "folhaVazia": "assets/folha_vazia_1785002448781.png",
+    "folhaPreenchida": "assets/folha_1785002448781.jpg",
+    "musica": "assets/music_1785002448781.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -96,7 +96,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Confirmar Presença",
       "icone": "fa-solid fa-check",
-      "whatsapp": "5511988509403",
+      "whatsapp": "5511 99801-3099",
       "rsvpConfig": {
         "exibirNome": true,
         "exibirWhatsapp": false,
