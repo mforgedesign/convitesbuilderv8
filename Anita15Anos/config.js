@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa, Lilás e Azul com Madeira",
     "tema": "Jardim",
-    "musica": "assets/music_1784998760502.mp3",
+    "musica": "assets/music_1784999689176.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Anita15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784998760502.png",
-    "cartao": "assets/cartao_chatgpt_1784998760502.jpg",
+    "capa": "assets/cover_1784999689176.png",
+    "cartao": "assets/cartao_chatgpt_1784999689176.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784998760502.mp4",
-      "assets/slide2_1784998760502.jpg",
-      "assets/slide3_1784998760502.mp4",
-      "assets/slide4_1784998760502.jpg"
+      "assets/slide1_1784999689176.mp4",
+      "assets/slide2_1784999689176.jpg",
+      "assets/slide3_1784999689176.mp4",
+      "assets/slide4_1784999689176.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784998760502.mp4",
+        "filePath": "assets/slide1_1784999689176.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784998760502.jpg",
+        "filePath": "assets/slide2_1784999689176.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1784998760502.mp4",
+        "filePath": "assets/slide3_1784999689176.mp4",
         "label": "Cena Temática",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784998760502.jpg",
+        "filePath": "assets/slide4_1784999689176.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784998760502.png",
-    "folhaPreenchida": "assets/folha_1784998760502.png",
-    "musica": "assets/music_1784998760502.mp3",
+    "folhaVazia": "assets/folha_vazia_1784999689176.png",
+    "folhaPreenchida": "assets/folha_1784999689176.png",
+    "musica": "assets/music_1784999689176.mp3",
     "musicStartSec": 33,
     "musicEndSec": null,
     "fabric": {
@@ -92,16 +92,11 @@ window.config = {
       "conteudo": "https://www.google.com/maps/search/?api=1&query=Winners+Gastronomia,+R.+Vagner+Luis+Boscardin,+4591+-+Piraquara+-+PR"
     },
     {
-      "tipoAcao": "RSVP",
+      "tipoAcao": "PopupHtml",
       "tipoVisual": "css",
       "titulo": "Confirmar Presença",
       "icone": "fa-solid fa-check",
-      "whatsapp": "5511988509403",
-      "rsvpConfig": {
-        "exibirNome": true,
-        "exibirWhatsapp": true,
-        "exibirAcompanhantes": false
-      }
+      "conteudo": "<link href=\"https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap\" rel=\"stylesheet\">\n\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css\">\n\n<style>\n  .cp-wrap,\n  .cp-wrap *,\n  .cp-wrap *::before,\n  .cp-wrap *::after {\n    box-sizing: border-box;\n  }\n\n  .cp-wrap {\n    position: relative;\n    width: 100%;\n    padding: 42px 20px;\n    overflow: hidden;\n    font-family: \"Cormorant Garamond\", serif;\n    background:\n      radial-gradient(\n        circle at top left,\n        rgba(220, 190, 235, 0.35),\n        transparent 36%\n      ),\n      radial-gradient(\n        circle at bottom right,\n        rgba(190, 215, 245, 0.35),\n        transparent 38%\n      ),\n      linear-gradient(\n        160deg,\n        hsl(285, 20%, 98%) 0%,\n        hsl(285, 25%, 95%) 45%,\n        hsl(285, 20%, 98%) 100%\n      );\n  }\n\n  .cp-card {\n    position: relative;\n    z-index: 2;\n    max-width: 560px;\n    margin: 0 auto;\n    padding: 28px 22px 26px;\n    text-align: center;\n    border: 1px solid rgba(130, 110, 180, 0.22);\n    border-radius: 24px;\n    background: rgba(255, 255, 255, 0.86);\n    box-shadow:\n      0 10px 35px rgba(85, 65, 125, 0.10),\n      inset 0 0 20px rgba(255, 255, 255, 0.55);\n    backdrop-filter: blur(7px);\n    -webkit-backdrop-filter: blur(7px);\n    animation: cpFadeUp 0.75s ease both;\n  }\n\n  .cp-icon {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    width: 58px;\n    height: 58px;\n    margin: 0 auto 17px;\n    border-radius: 18px;\n    color: #ffffff;\n    font-size: 22px;\n    background: linear-gradient(\n      145deg,\n      hsl(285, 50%, 72%),\n      hsl(285, 34%, 47%)\n    );\n    box-shadow: 0 7px 18px rgba(105, 70, 145, 0.24);\n    animation: cpFloat 4s ease-in-out infinite;\n  }\n\n  .cp-title {\n    margin: 0;\n    font-family: \"Cinzel\", serif;\n    font-size: clamp(17px, 4.5vw, 23px);\n    font-weight: 500;\n    line-height: 1.35;\n    letter-spacing: 0.11em;\n    color: hsl(285, 34%, 43%);\n  }\n\n  .cp-divider {\n    width: 110px;\n    height: 1px;\n    margin: 15px auto;\n    background: linear-gradient(\n      to right,\n      transparent,\n      rgba(130, 100, 180, 0.55),\n      transparent\n    );\n  }\n\n  .cp-message {\n    max-width: 450px;\n    margin: 0 auto;\n    color: hsl(285, 22%, 28%);\n    font-size: clamp(16px, 4vw, 18px);\n    line-height: 1.65;\n  }\n\n  .cp-ornament {\n    position: absolute;\n    z-index: 1;\n    color: rgba(150, 105, 185, 0.13);\n    pointer-events: none;\n  }\n\n  .cp-ornament-one {\n    top: -28px;\n    left: -22px;\n    font-size: 145px;\n    transform: rotate(-18deg);\n  }\n\n  .cp-ornament-two {\n    right: -15px;\n    bottom: -25px;\n    font-size: 115px;\n    transform: rotate(155deg);\n  }\n\n  .cp-sparkle {\n    position: absolute;\n    z-index: 1;\n    width: 5px;\n    height: 5px;\n    border-radius: 50%;\n    background: rgba(150, 115, 195, 0.55);\n    box-shadow:\n      0 0 7px rgba(150, 115, 195, 0.55),\n      0 0 14px rgba(150, 115, 195, 0.25);\n    animation: cpSparkle 3.2s ease-in-out infinite;\n    pointer-events: none;\n  }\n\n  .cp-sparkle-one {\n    top: 18%;\n    left: 11%;\n  }\n\n  .cp-sparkle-two {\n    top: 25%;\n    right: 12%;\n    animation-delay: 1.1s;\n  }\n\n  .cp-sparkle-three {\n    bottom: 18%;\n    left: 17%;\n    animation-delay: 2s;\n  }\n\n  .cp-sparkle-four {\n    right: 15%;\n    bottom: 12%;\n    animation-delay: 0.6s;\n  }\n\n  @keyframes cpFadeUp {\n    from {\n      opacity: 0;\n      transform: translateY(14px);\n    }\n\n    to {\n      opacity: 1;\n      transform: translateY(0);\n    }\n  }\n\n  @keyframes cpFloat {\n    0%,\n    100% {\n      transform: translateY(0);\n    }\n\n    50% {\n      transform: translateY(-5px);\n    }\n  }\n\n  @keyframes cpSparkle {\n    0%,\n    100% {\n      opacity: 0.15;\n      transform: scale(0.45);\n    }\n\n    50% {\n      opacity: 1;\n      transform: scale(1.15);\n    }\n  }\n\n  @media (max-width: 480px) {\n    .cp-wrap {\n      padding: 32px 16px;\n    }\n\n    .cp-card {\n      padding: 25px 18px 23px;\n      border-radius: 21px;\n    }\n\n    .cp-icon {\n      width: 54px;\n      height: 54px;\n      font-size: 20px;\n    }\n  }\n</style>\n\n<div class=\"cp-wrap\">\n  <i\n    class=\"fa-solid fa-seedling cp-ornament cp-ornament-one\"\n    aria-hidden=\"true\"\n  ></i>\n\n  <i\n    class=\"fa-solid fa-seedling cp-ornament cp-ornament-two\"\n    aria-hidden=\"true\"\n  ></i>\n\n  <span class=\"cp-sparkle cp-sparkle-one\" aria-hidden=\"true\"></span>\n  <span class=\"cp-sparkle cp-sparkle-two\" aria-hidden=\"true\"></span>\n  <span class=\"cp-sparkle cp-sparkle-three\" aria-hidden=\"true\"></span>\n  <span class=\"cp-sparkle cp-sparkle-four\" aria-hidden=\"true\"></span>\n\n  <div class=\"cp-card\">\n    <div class=\"cp-icon\">\n      <i class=\"fa-solid fa-calendar-check\" aria-hidden=\"true\"></i>\n    </div>\n\n    <h2 class=\"cp-title\">Confirmação de Presença</h2>\n\n    <div class=\"cp-divider\"></div>\n\n    <p class=\"cp-message\">\n      Nossa cerimonial entrará em contato para confirmar sua presença.\n      Desde já, agradecemos seu carinho e atenção.\n    </p>\n  </div>\n</div>"
     },
     {
       "tipoAcao": "PopupHtml",
