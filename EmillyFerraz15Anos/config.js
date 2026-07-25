@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Dourado com Magenta",
     "tema": "Baile de Máscaras",
-    "musica": "assets/music_1784997354078.mp3",
+    "musica": "assets/music_1784998934319.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "EmillyFerraz15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784997354078.png",
-    "cartao": "assets/d97110df_06f3_4976_93f5_503bdb82d50b_1784997354078.png",
+    "capa": "assets/cover_1784998934319.png",
+    "cartao": "assets/d97110df_06f3_4976_93f5_503bdb82d50b_1784998934319.png",
     "aberturaSlides": [
-      "assets/slide1_1784997354078.mp4",
-      "assets/slide2_1784997354078.jpg",
-      "assets/slide3_1784997354078.mp4",
-      "assets/slide4_1784997354078.jpg"
+      "assets/slide1_1784998934319.mp4",
+      "assets/slide2_1784998934319.jpg",
+      "assets/slide3_1784998934319.mp4",
+      "assets/slide4_1784998934319.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784997354078.mp4",
+        "filePath": "assets/slide1_1784998934319.mp4",
         "label": "Abertura (Video)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784997354078.jpg",
+        "filePath": "assets/slide2_1784998934319.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1784997354078.mp4",
+        "filePath": "assets/slide3_1784998934319.mp4",
         "label": "Cena Tematica",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784997354078.jpg",
+        "filePath": "assets/slide4_1784998934319.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784997354078.png",
-    "folhaPreenchida": "assets/folha_1784997354078.jpg",
-    "musica": "assets/music_1784997354078.mp3",
+    "folhaVazia": "assets/folha_vazia_1784998934319.png",
+    "folhaPreenchida": "assets/folha_1784998934319.jpg",
+    "musica": "assets/music_1784998934319.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
