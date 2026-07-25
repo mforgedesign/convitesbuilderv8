@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Verde com flores rosa",
     "tema": "Floresta Encantada (atmosfera mágica e elegante)",
-    "musica": "assets/music_1785003194182.mp3",
+    "musica": "assets/music_1785003919646.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "Stephanie15Anos",
@@ -25,21 +25,21 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785003194182.png",
-    "cartao": "assets/78336f03_6aa0_45e0_bcf7_b17026d0e694_1785003194182.png",
+    "capa": "assets/cover_1785003919646.png",
+    "cartao": "assets/78336f03_6aa0_45e0_bcf7_b17026d0e694_1785003919646.png",
     "aberturaSlides": [
-      "assets/slide1_1785003194182.mp4"
+      "assets/slide1_1785003919646.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785003194182.mp4",
+        "filePath": "assets/slide1_1785003919646.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785003194182.png",
-    "folhaPreenchida": "assets/folha_1785003194182.png",
-    "musica": "assets/music_1785003194182.mp3",
+    "folhaVazia": "assets/folha_vazia_1785003919646.png",
+    "folhaPreenchida": "assets/folha_1785003919646.png",
+    "musica": "assets/music_1785003919646.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -108,7 +108,7 @@ window.config = {
   "config": {
     "exibirMarcaDagua": false,
     "cronometro": true,
-    "buttonColor": "#f2a6cb",
+    "buttonColor": "#d77983",
     "buttonSize": 1,
     "isButtonFilled": true,
     "shadowStyle": "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%)",
