@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa, Lilás e Azul com Madeira",
     "tema": "Jardim",
-    "musica": "assets/music_1784987005326.mp3",
+    "musica": "assets/music_1784998760502.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Anita15Anos",
@@ -25,41 +25,41 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784987005326.png",
-    "cartao": "",
+    "capa": "assets/cover_1784998760502.png",
+    "cartao": "assets/cartao_chatgpt_1784998760502.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784987005326.mp4",
-      "assets/slide2_1784987005326.jpg",
-      "assets/slide3_1784987005326.mp4",
-      "assets/slide4_1784987005326.jpg"
+      "assets/slide1_1784998760502.mp4",
+      "assets/slide2_1784998760502.jpg",
+      "assets/slide3_1784998760502.mp4",
+      "assets/slide4_1784998760502.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784987005326.mp4",
+        "filePath": "assets/slide1_1784998760502.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1784987005326.jpg",
+        "filePath": "assets/slide2_1784998760502.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1784987005326.mp4",
+        "filePath": "assets/slide3_1784998760502.mp4",
         "label": "Cena Temática",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1784987005326.jpg",
+        "filePath": "assets/slide4_1784998760502.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784987005326.png",
-    "folhaPreenchida": "assets/folha_1784987005326.png",
-    "musica": "assets/music_1784987005326.mp3",
+    "folhaVazia": "assets/folha_vazia_1784998760502.png",
+    "folhaPreenchida": "assets/folha_1784998760502.png",
+    "musica": "assets/music_1784998760502.mp3",
     "musicStartSec": 33,
-    "musicEndSec": 58,
+    "musicEndSec": null,
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -99,7 +99,7 @@ window.config = {
       "whatsapp": "5511988509403",
       "rsvpConfig": {
         "exibirNome": true,
-        "exibirWhatsapp": false,
+        "exibirWhatsapp": true,
         "exibirAcompanhantes": false
       }
     },
@@ -125,7 +125,7 @@ window.config = {
   },
   "config": {
     "exibirMarcaDagua": false,
-    "cronometro": false,
+    "cronometro": true,
     "buttonColor": "#8a4f9e",
     "buttonSize": 1,
     "isButtonFilled": true,
