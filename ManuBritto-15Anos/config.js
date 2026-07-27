@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "tons de azul e dourado",
     "tema": "cinderela",
-    "musica": "assets/music_1785188643173.mp3",
+    "musica": "assets/music_1785191288354.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "ManuBritto-15Anos",
@@ -25,21 +25,21 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785188643173.jpg",
-    "cartao": "assets/file_00000000bc1c822f8bee7f49691eaf4f_1785188643173.png",
+    "capa": "assets/cover_1785191288354.jpg",
+    "cartao": "assets/file_00000000bc1c822f8bee7f49691eaf4f_1785191288354.png",
     "aberturaSlides": [
-      "assets/slide1_1785188643173.mp4"
+      "assets/slide1_1785191288354.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785188643173.mp4",
+        "filePath": "assets/slide1_1785191288354.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785188643173.png",
-    "folhaPreenchida": "assets/folha_1785188643173.png",
-    "musica": "assets/music_1785188643173.mp3",
+    "folhaVazia": "assets/folha_vazia_1785191288354.png",
+    "folhaPreenchida": "assets/folha_1785191288354.png",
+    "musica": "assets/music_1785191288354.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -80,7 +80,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/file_00000000614481f5abe9aa5912af5837_1785188643173.png"
+      "conteudo": "assets/88995286_ed1f_4729_952f_fa40c2ad4e97_1785191288354.png"
     },
     {
       "id": "btn_c04ee956-513d-4965-9602-43a9cf7ab82c",
@@ -88,7 +88,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "assets/a76151d9_738f_4905_a065_ea8f27998047_1785188643173.png"
+      "conteudo": "assets/a76151d9_738f_4905_a065_ea8f27998047_1785191288354.png"
     },
     {
       "id": "btn_1b6fc5cf-77a7-4817-a9fc-6f52fcffc66e",
