@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul com Prata",
     "tema": "baile inverno",
-    "musica": "assets/music_1785274606359.mp3",
+    "musica": "assets/music_1785275140275.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnaBeatriz15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785274606359.jpg",
-    "cartao": "assets/cartao_chatgpt_1785274606359.jpg",
+    "capa": "assets/cover_1785275140275.jpg",
+    "cartao": "assets/cartao_chatgpt_1785275140275.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785274606359.mp4",
-      "assets/slide2_1785274606359.jpg",
-      "assets/slide3_1785274606359.mp4",
-      "assets/slide4_1785274606359.jpg"
+      "assets/slide1_1785275140275.mp4",
+      "assets/slide2_1785275140275.jpg",
+      "assets/slide3_1785275140275.mp4",
+      "assets/slide4_1785275140275.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785274606359.mp4",
+        "filePath": "assets/slide1_1785275140275.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785274606359.jpg",
+        "filePath": "assets/slide2_1785275140275.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1785274606359.mp4",
+        "filePath": "assets/slide3_1785275140275.mp4",
         "label": "Cena Temática",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785274606359.jpg",
+        "filePath": "assets/slide4_1785275140275.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785274606359.jpg",
-    "folhaPreenchida": "assets/folha_1785274606359.jpg",
-    "musica": "assets/music_1785274606359.mp3",
+    "folhaVazia": "assets/folha_vazia_1785275140275.jpg",
+    "folhaPreenchida": "assets/folha_1785275140275.jpg",
+    "musica": "assets/music_1785275140275.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
