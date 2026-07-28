@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul serenity, laranja candy e pérola",
     "tema": "Tipo pôr do sol, elementos do mar",
-    "musica": "assets/music_1785274713624.mp3",
+    "musica": "assets/music_1785275344747.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "Yasmin15Anos",
@@ -25,21 +25,21 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785274713624.jpg",
-    "cartao": "assets/cartao_chatgpt_1785274713624.jpg",
+    "capa": "assets/cover_1785275344747.jpg",
+    "cartao": "assets/cartao_chatgpt_1785275344747.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785274713624.mp4"
+      "assets/slide1_1785275344747.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785274713624.mp4",
+        "filePath": "assets/slide1_1785275344747.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785274713624.jpg",
-    "folhaPreenchida": "assets/folha_1785274713624.jpg",
-    "musica": "assets/music_1785274713624.mp3",
+    "folhaVazia": "assets/folha_vazia_1785275344747.jpg",
+    "folhaPreenchida": "assets/folha_1785275344747.jpg",
+    "musica": "assets/music_1785275344747.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
