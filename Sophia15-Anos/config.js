@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1785273310173.mp3",
+    "musica": "assets/music_1785351485793.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Sophia15-Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785273310173.jpg",
-    "cartao": "",
+    "capa": "assets/cover_1785351485793.jpg",
+    "cartao": "assets/cartao_chatgpt_1785351485793.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785273310173.mp4",
-      "assets/slide2_1785273310173.mp4",
-      "assets/slide3_1785273310173.mp4",
-      "assets/slide4_1785273310173.jpg"
+      "assets/slide1_1785351485793.mp4",
+      "assets/slide2_1785351485793.mp4",
+      "assets/slide3_1785351485793.mp4",
+      "assets/slide4_1785351485793.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785273310173.mp4",
+        "filePath": "assets/slide1_1785351485793.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785273310173.mp4",
+        "filePath": "assets/slide2_1785351485793.mp4",
         "label": "Slide 2",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1785273310173.mp4",
+        "filePath": "assets/slide3_1785351485793.mp4",
         "label": "Slide 2",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785273310173.jpg",
+        "filePath": "assets/slide4_1785351485793.jpg",
         "label": "Slide 1",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785273310173.jpg",
-    "folhaPreenchida": "assets/folha_1785273310173.jpg",
-    "musica": "assets/music_1785273310173.mp3",
+    "folhaVazia": "assets/folha_vazia_1785351485793.jpg",
+    "folhaPreenchida": "assets/folha_1785351485793.jpg",
+    "musica": "assets/music_1785351485793.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -71,8 +71,8 @@ window.config = {
         "durationSec": 20
       },
       "lembrete": {
-        "referencia": "assets/fabric_lembrete_ref_1785273310173.jpg",
-        "resultado": "assets/lembrete_1785178532717_1785273310173.mp4",
+        "referencia": "assets/fabric_lembrete_ref_1785351485793.jpg",
+        "resultado": "assets/lembrete_1785178532717_1785351485793.mp4",
         "musicaPersonalizada": "",
         "musicSource": "convite",
         "hasMusic": true,
@@ -106,7 +106,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "<link href=\"https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap\" rel=\"stylesheet\">\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css\">\n<style>\n*{box-sizing:border-box;margin:0;padding:0}\n.mc-wrap{position:relative;padding:32px 18px 36px;overflow:hidden;font-family:'Cormorant Garamond',serif;background:linear-gradient(160deg,#fbf6ff 0%,#f1e5fa 45%,#faf5ff 100%)}\n.mc-header{position:relative;z-index:2;text-align:center;margin-bottom:10px}.mc-crown{font-size:26px;margin-bottom:6px;display:block;animation:crownFloat 4s ease-in-out infinite}@keyframes crownFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}.mc-header h2{font-family:'Cinzel',serif;font-size:22px;color:#54266f;letter-spacing:.15em;margin-bottom:5px}.mc-header p{color:#80579a;font-size:14.5px;font-style:italic}.mc-sub{position:relative;z-index:2;text-align:center;margin-bottom:24px;font-size:13px;color:#966fb0;font-family:'Cinzel',serif;letter-spacing:.12em;text-transform:uppercase}.mc-sub:before,.mc-sub:after{content:'';display:inline-block;width:40px;height:.5px;background:linear-gradient(to right,transparent,rgba(145,94,175,.4));vertical-align:middle;margin:0 10px}.mc-sub:after{background:linear-gradient(to left,transparent,rgba(145,94,175,.4))}.mc-grid{display:grid;gap:12px;position:relative;z-index:2}.mc-card{border-radius:20px;background:rgba(255,255,255,.84);border:1px solid rgba(145,94,175,.2);box-shadow:0 2px 16px rgba(100,45,130,.08);overflow:hidden;animation:mcFade .6s ease both}@keyframes mcFade{from{opacity:0;transform:translateY(11px)}to{opacity:1;transform:translateY(0)}}.mc-top{display:flex;align-items:center;gap:13px;padding:15px}.mc-icon{width:46px;height:46px;border-radius:14px;flex-shrink:0;display:flex;align-items:center;justify-content:center;background:linear-gradient(145deg,#d9b9e8,#9b62b7);color:#fff;font-size:18px;box-shadow:0 2px 10px rgba(120,60,155,.22)}.mc-title{font-family:'Cinzel',serif;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;color:#80579a;margin-bottom:3px}.mc-text{font-size:15px;line-height:1.6;color:#492553}.mc-divider{height:.5px;margin:0 15px;background:linear-gradient(to right,transparent,rgba(145,94,175,.24),transparent)}.mc-body{padding:11px 15px 15px}.mc-highlight{color:#6b328b;font-weight:600}.mc-note{margin-top:11px;padding:10px 13px;border-radius:14px;background:rgba(188,139,211,.15);border:1px solid rgba(145,94,175,.22);font-size:13.5px;color:#54266f;font-style:italic;line-height:1.55}.mc-tag-row{display:flex;flex-wrap:wrap;gap:7px;margin-top:9px}.mc-tag{display:inline-flex;align-items:center;gap:5px;padding:4px 11px;border-radius:30px;font-size:12.5px;font-style:italic}.mc-tag-no{background:rgba(227,201,239,.5);border:1px solid rgba(145,94,175,.25);color:#54266f}.mc-confirm{position:relative;z-index:2;margin-top:14px;border-radius:20px;background:linear-gradient(145deg,rgba(255,255,255,.92),rgba(231,210,241,.6));border:1px solid rgba(145,94,175,.28);padding:16px;box-shadow:0 2px 18px rgba(100,45,130,.1);animation:mcFade .6s .38s ease both}.mc-confirm-top{display:flex;align-items:center;gap:12px;margin-bottom:11px}.mc-confirm-icon{width:46px;height:46px;border-radius:14px;flex-shrink:0;display:flex;align-items:center;justify-content:center;background:linear-gradient(145deg,#9b62b7,#54266f);color:#fff;font-size:18px}.mc-confirm-title{font-family:'Cinzel',serif;font-size:12px;letter-spacing:.13em;text-transform:uppercase;color:#54266f;margin-bottom:2px}.mc-confirm-sub{font-size:13px;color:#80579a;font-style:italic}.lp-star{position:absolute;color:rgba(145,94,175,.5);font-size:11px;animation:starAnim 3s ease-in-out infinite;pointer-events:none}@keyframes starAnim{0%,100%{opacity:0;transform:scale(0)}50%{opacity:1;transform:scale(1)}}\n</style>\n<div class=\"mc-wrap\">\n<div class=\"mc-header\"><span class=\"mc-crown\">💜</span><h2>Manual do Convidado</h2><p>15 Anos da Sophia</p></div>\n<div class=\"mc-sub\">✦ &nbsp; com amor &nbsp; ✦</div>\n<div class=\"mc-grid\">\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-heart\"></i></div><div><div class=\"mc-title\">Seja muito bem-vindo(a)!</div><div class=\"mc-text\">Sua presença é o maior presente que poderíamos receber. Preparamos este manual para que você aproveite cada momento dessa noite tão especial.</div></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-user-tie\"></i></div><div><div class=\"mc-title\">Dress Code</div><div class=\"mc-text\"><span class=\"mc-highlight\">Esporte Fino</span></div></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-palette\"></i></div><div><div class=\"mc-title\">Cores a evitar</div><div class=\"mc-text\">Para manter a harmonia da decoração e destacar a debutante, pedimos gentilmente que não utilizem roupas nas cores:</div></div></div><div class=\"mc-divider\"></div><div class=\"mc-body\"><div class=\"mc-tag-row\"><span class=\"mc-tag mc-tag-no\">Lilás</span><span class=\"mc-tag mc-tag-no\">Roxo</span><span class=\"mc-tag mc-tag-no\">Azul-marinho</span></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-clock\"></i></div><div><div class=\"mc-title\">Pontualidade</div><div class=\"mc-text\">Pedimos a gentileza de chegar com alguns minutos de antecedência para não perder a cerimônia de abertura.</div></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-volume-xmark\"></i></div><div><div class=\"mc-title\">Durante o cerimonial</div><div class=\"mc-text\">Por favor, preste atenção e não faça barulho. É o momento mais especial da festa.</div></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-users\"></i></div><div><div class=\"mc-title\">Convidado não convida!</div><div class=\"mc-text\">A celebração é exclusiva para os convidados.</div></div></div></div>\n</div>\n<div class=\"mc-confirm\"><div class=\"mc-confirm-top\"><div class=\"mc-confirm-icon\"><i class=\"fa-solid fa-calendar-check\"></i></div><div><div class=\"mc-confirm-title\">Confirme sua presença</div><div class=\"mc-confirm-sub\">Pelo menos 12 dias antes do evento</div></div></div><div class=\"mc-note\">Depois disso, você não conseguirá participar da festa.</div></div>\n<div class=\"mc-note\">Divirta-se bastante! Estamos ansiosos para celebrar este momento especial com você. Não vá embora sem me dar um abraço e comer um pedaço do bolo.</div>\n</div>"
+      "conteudo": "<link href=\"https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap\" rel=\"stylesheet\">\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css\">\n<style>\n*{box-sizing:border-box;margin:0;padding:0}\n.mc-wrap{position:relative;padding:32px 18px 36px;overflow:hidden;font-family:'Cormorant Garamond',serif;background:linear-gradient(160deg,#fbf6ff 0%,#f1e5fa 45%,#faf5ff 100%)}\n.mc-header{position:relative;z-index:2;text-align:center;margin-bottom:10px}.mc-crown{font-size:26px;margin-bottom:6px;display:block;animation:crownFloat 4s ease-in-out infinite}@keyframes crownFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}.mc-header h2{font-family:'Cinzel',serif;font-size:22px;color:#54266f;letter-spacing:.15em;margin-bottom:5px}.mc-header p{color:#80579a;font-size:14.5px;font-style:italic}.mc-sub{position:relative;z-index:2;text-align:center;margin-bottom:24px;font-size:13px;color:#966fb0;font-family:'Cinzel',serif;letter-spacing:.12em;text-transform:uppercase}.mc-sub:before,.mc-sub:after{content:'';display:inline-block;width:40px;height:.5px;background:linear-gradient(to right,transparent,rgba(145,94,175,.4));vertical-align:middle;margin:0 10px}.mc-sub:after{background:linear-gradient(to left,transparent,rgba(145,94,175,.4))}.mc-grid{display:grid;gap:12px;position:relative;z-index:2}.mc-card{border-radius:20px;background:rgba(255,255,255,.84);border:1px solid rgba(145,94,175,.2);box-shadow:0 2px 16px rgba(100,45,130,.08);overflow:hidden;animation:mcFade .6s ease both}@keyframes mcFade{from{opacity:0;transform:translateY(11px)}to{opacity:1;transform:translateY(0)}}.mc-top{display:flex;align-items:center;gap:13px;padding:15px}.mc-icon{width:46px;height:46px;border-radius:14px;flex-shrink:0;display:flex;align-items:center;justify-content:center;background:linear-gradient(145deg,#d9b9e8,#9b62b7);color:#fff;font-size:18px;box-shadow:0 2px 10px rgba(120,60,155,.22)}.mc-title{font-family:'Cinzel',serif;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;color:#80579a;margin-bottom:3px}.mc-text{font-size:15px;line-height:1.6;color:#492553}.mc-divider{height:.5px;margin:0 15px;background:linear-gradient(to right,transparent,rgba(145,94,175,.24),transparent)}.mc-body{padding:11px 15px 15px}.mc-highlight{color:#6b328b;font-weight:600}.mc-note{margin-top:11px;padding:10px 13px;border-radius:14px;background:rgba(188,139,211,.15);border:1px solid rgba(145,94,175,.22);font-size:13.5px;color:#54266f;font-style:italic;line-height:1.55}.mc-tag-row{display:flex;flex-wrap:wrap;gap:7px;margin-top:9px}.mc-tag{display:inline-flex;align-items:center;gap:5px;padding:4px 11px;border-radius:30px;font-size:12.5px;font-style:italic}.mc-tag-no{background:rgba(227,201,239,.5);border:1px solid rgba(145,94,175,.25);color:#54266f}.mc-confirm{position:relative;z-index:2;margin-top:14px;border-radius:20px;background:linear-gradient(145deg,rgba(255,255,255,.92),rgba(231,210,241,.6));border:1px solid rgba(145,94,175,.28);padding:16px;box-shadow:0 2px 18px rgba(100,45,130,.1);animation:mcFade .6s .38s ease both}.mc-confirm-top{display:flex;align-items:center;gap:12px;margin-bottom:11px}.mc-confirm-icon{width:46px;height:46px;border-radius:14px;flex-shrink:0;display:flex;align-items:center;justify-content:center;background:linear-gradient(145deg,#9b62b7,#54266f);color:#fff;font-size:18px}.mc-confirm-title{font-family:'Cinzel',serif;font-size:12px;letter-spacing:.13em;text-transform:uppercase;color:#54266f;margin-bottom:2px}.mc-confirm-sub{font-size:13px;color:#80579a;font-style:italic}.lp-star{position:absolute;color:rgba(145,94,175,.5);font-size:11px;animation:starAnim 3s ease-in-out infinite;pointer-events:none}@keyframes starAnim{0%,100%{opacity:0;transform:scale(0)}50%{opacity:1;transform:scale(1)}}\n</style>\n<div class=\"mc-wrap\">\n<div class=\"mc-header\"><span class=\"mc-crown\">💜</span><h2>Manual do Convidado</h2><p>15 Anos da Sophia</p></div>\n<div class=\"mc-sub\">✦ &nbsp; com amor &nbsp; ✦</div>\n<div class=\"mc-grid\">\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-heart\"></i></div><div><div class=\"mc-title\">Seja muito bem-vindo(a)!</div><div class=\"mc-text\">Sua presença é o maior presente que poderíamos receber. Preparamos este manual para que você aproveite cada momento dessa noite tão especial.</div></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-user-tie\"></i></div><div><div class=\"mc-title\">Dress Code</div><div class=\"mc-text\"><span class=\"mc-highlight\">Esporte Fino</span></div></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-palette\"></i></div><div><div class=\"mc-title\">Cores a evitar</div><div class=\"mc-text\">Para manter a harmonia da decoração e destacar a debutante, pedimos gentilmente que não utilizem roupas nas cores:</div></div></div><div class=\"mc-divider\"></div><div class=\"mc-body\"><div class=\"mc-tag-row\"><span class=\"mc-tag mc-tag-no\">Lilás</span><span class=\"mc-tag mc-tag-no\">Roxo</span><span class=\"mc-tag mc-tag-no\">Azul-marinho</span></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-clock\"></i></div><div><div class=\"mc-title\">Pontualidade</div><div class=\"mc-text\">Pedimos a gentileza de chegar com alguns minutos de antecedência para não perder a cerimônia de abertura.</div></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-users\"></i></div><div><div class=\"mc-title\">Convidado não convida!</div><div class=\"mc-text\">A celebração é exclusiva para os convidados.</div></div></div></div>\n</div>\n<div class=\"mc-confirm\"><div class=\"mc-confirm-top\"><div class=\"mc-confirm-icon\"><i class=\"fa-solid fa-calendar-check\"></i></div><div><div class=\"mc-confirm-title\">Confirme sua presença</div><div class=\"mc-confirm-sub\">Pode levar crianças a partir de 7 anos</div></div></div></div>\n<div class=\"mc-note\">Divirta-se bastante! Estamos ansiosos para celebrar este momento especial com você. Não vá embora sem me dar um abraço e comer um pedaço do bolo.</div>\n</div>"
     },
     {
       "id": "btn_d95f39fe9ddb7716",
