@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa com Azul-bebê, Dourado e Prata",
     "tema": "Elegante",
-    "musica": "assets/music_1785198368216.mp3",
+    "musica": "assets/music_1785952279559.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnaLaura15Anos",
@@ -25,33 +25,33 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785198368216.png",
-    "cartao": "assets/d66d2047_3a43_4add_939a_803659e3e775_1785198368216.png",
+    "capa": "assets/cover_1785952279559.png",
+    "cartao": "assets/d66d2047_3a43_4add_939a_803659e3e775_1785952279559.png",
     "aberturaSlides": [
-      "assets/slide1_1785198368216.mp4",
-      "assets/slide2_1785198368216.mp4",
-      ""
+      "assets/slide1_1785952279559.mp4",
+      "assets/slide2_1785952279559.mp4",
+      "assets/slide3_1785952279559.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785198368216.mp4",
+        "filePath": "assets/slide1_1785952279559.mp4",
         "label": "Gerando vídeo...",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785198368216.mp4",
+        "filePath": "assets/slide2_1785952279559.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "",
+        "filePath": "assets/slide3_1785952279559.mp4",
         "label": "Slide 2",
         "type": "video"
       }
     ],
     "folhaVazia": "",
-    "folhaPreenchida": "assets/folha_1785198368216.png",
-    "musica": "assets/music_1785198368216.mp3",
+    "folhaPreenchida": "assets/folha_1785952279559.png",
+    "musica": "assets/music_1785952279559.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -106,6 +106,8 @@ window.config = {
     "exibirMarcaDagua": false,
     "cronometro": false,
     "buttonColor": "#c85a9e",
+    "buttonGradientColor": "#ec4899",
+    "buttonGradientEnabled": false,
     "buttonSize": 1,
     "isButtonFilled": true,
     "shadowStyle": "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%)",
