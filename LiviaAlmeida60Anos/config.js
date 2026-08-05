@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Terracota, creme e dourado",
     "tema": "Elegante",
-    "musica": "assets/music_1784303442542.mp3",
+    "musica": "assets/music_1785967287861.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "LiviaAlmeida60Anos",
@@ -25,33 +25,23 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1784303442542.png",
-    "cartao": "assets/cartao_gen_1784303442542.jpg",
+    "capa": "assets/cover_1785967287861.png",
+    "cartao": "assets/cartao_gen_1785967287861.jpg",
     "aberturaSlides": [
-      "assets/slide1_1784303442542.mp4",
-      "assets/slide2_1784303442542.jpg",
-      "assets/slide3_1784303442542.jpg"
+      "assets/slide1_1785967287861.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1784303442542.mp4",
+        "filePath": "assets/slide1_1785967287861.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
-      },
-      {
-        "filePath": "assets/slide2_1784303442542.jpg",
-        "label": "Convite Especial",
-        "type": "image"
-      },
-      {
-        "filePath": "assets/slide3_1784303442542.jpg",
-        "label": "Prepare-se",
-        "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1784303442542.png",
-    "folhaPreenchida": "assets/folha_1784303442542.jpg",
-    "musica": "assets/music_1784303442542.mp3",
+    "folhaVazia": "assets/folha_vazia_1785967287861.png",
+    "folhaPreenchida": "assets/folha_1785967287861.jpg",
+    "musica": "assets/music_1785967287861.mp3",
+    "musicStartSec": 0,
+    "musicEndSec": null,
     "fabric": {
       "saveTheDate": {
         "referencia": "",
@@ -77,6 +67,7 @@ window.config = {
   },
   "botoes": [
     {
+      "id": "btn_9c3b903a0f83462d",
       "tipoAcao": "Link",
       "tipoVisual": "css",
       "titulo": "Como Chegar",
@@ -84,6 +75,7 @@ window.config = {
       "conteudo": "https://maps.app.goo.gl/jorCNJGTnVLfXcAZ6"
     },
     {
+      "id": "btn_a6a7909231d801f1",
       "tipoAcao": "RSVP",
       "tipoVisual": "css",
       "titulo": "Confirmar Presença",
@@ -96,6 +88,7 @@ window.config = {
       }
     },
     {
+      "id": "btn_22bd06ecae8cfc74",
       "tipoAcao": "PopupHtml",
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
@@ -103,6 +96,7 @@ window.config = {
       "conteudo": "<style>\n  * {\n    box-sizing: border-box;\n  }\n\n  .mcx-wrap,\n  .mcx-wrap * {\n    margin: 0;\n    padding: 0;\n  }\n\n  .mcx-wrap {\n    --mcx-cream: #fbf7f2;\n    --mcx-cream-deep: #f1e5da;\n    --mcx-terracotta: #b86f4d;\n    --mcx-terracotta-dark: #70412f;\n    --mcx-gold: #c69a5a;\n    --mcx-brown: #3d281f;\n    --mcx-white: rgba(255, 255, 255, 0.88);\n\n    position: relative;\n    width: 100%;\n    padding: 34px 18px 38px;\n    overflow: hidden;\n    color: var(--mcx-brown);\n    font-family: Georgia, \"Times New Roman\", serif;\n    background:\n      radial-gradient(circle at 7% 5%, rgba(198, 154, 90, 0.20), transparent 24%),\n      radial-gradient(circle at 94% 92%, rgba(184, 111, 77, 0.17), transparent 28%),\n      linear-gradient(\n        155deg,\n        #fffdf9 0%,\n        var(--mcx-cream) 45%,\n        var(--mcx-cream-deep) 100%\n      );\n    isolation: isolate;\n  }\n\n  .mcx-wrap::before,\n  .mcx-wrap::after {\n    content: \"\";\n    position: absolute;\n    z-index: -1;\n    width: 190px;\n    height: 190px;\n    border: 1px solid rgba(198, 154, 90, 0.20);\n    border-radius: 50%;\n    box-shadow:\n      0 0 0 20px rgba(198, 154, 90, 0.045),\n      0 0 0 42px rgba(184, 111, 77, 0.035);\n    pointer-events: none;\n  }\n\n  .mcx-wrap::before {\n    top: -105px;\n    left: -80px;\n  }\n\n  .mcx-wrap::after {\n    right: -90px;\n    bottom: -110px;\n  }\n\n  .mcx-inner {\n    position: relative;\n    z-index: 2;\n    width: min(100%, 760px);\n    margin: 0 auto;\n  }\n\n  .mcx-header {\n    text-align: center;\n    margin-bottom: 23px;\n  }\n\n  .mcx-symbol {\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    width: 52px;\n    height: 52px;\n    margin-bottom: 10px;\n    border: 1px solid rgba(198, 154, 90, 0.38);\n    border-radius: 50%;\n    background: rgba(255, 255, 255, 0.62);\n    box-shadow: 0 8px 28px rgba(112, 65, 47, 0.10);\n    font-size: 24px;\n    animation: mcxFloat 4s ease-in-out infinite;\n  }\n\n  @keyframes mcxFloat {\n    0%,\n    100% {\n      transform: translateY(0);\n    }\n\n    50% {\n      transform: translateY(-5px);\n    }\n  }\n\n  .mcx-title {\n    color: var(--mcx-terracotta-dark);\n    font-size: clamp(22px, 5vw, 30px);\n    font-weight: 500;\n    letter-spacing: 0.14em;\n    line-height: 1.25;\n    text-transform: uppercase;\n  }\n\n  .mcx-subtitle {\n    max-width: 610px;\n    margin: 8px auto 0;\n    color: #8f624f;\n    font-size: 15px;\n    font-style: italic;\n    line-height: 1.55;\n  }\n\n  .mcx-ornament {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 12px;\n    margin-top: 15px;\n    color: var(--mcx-gold);\n    font-size: 12px;\n    letter-spacing: 0.18em;\n    text-transform: uppercase;\n  }\n\n  .mcx-ornament::before,\n  .mcx-ornament::after {\n    content: \"\";\n    width: 58px;\n    height: 1px;\n    background: linear-gradient(\n      to right,\n      transparent,\n      rgba(198, 154, 90, 0.75)\n    );\n  }\n\n  .mcx-ornament::after {\n    background: linear-gradient(\n      to left,\n      transparent,\n      rgba(198, 154, 90, 0.75)\n    );\n  }\n\n  .mcx-grid {\n    display: grid;\n    grid-template-columns: repeat(2, minmax(0, 1fr));\n    gap: 13px;\n  }\n\n  .mcx-card {\n    position: relative;\n    display: flex;\n    gap: 13px;\n    min-height: 126px;\n    padding: 17px 16px;\n    overflow: hidden;\n    border: 1px solid rgba(198, 154, 90, 0.25);\n    border-radius: 20px;\n    background: var(--mcx-white);\n    box-shadow: 0 8px 25px rgba(80, 47, 34, 0.07);\n    backdrop-filter: blur(6px);\n    animation: mcxFade 0.55s ease both;\n  }\n\n  .mcx-card::after {\n    content: \"\";\n    position: absolute;\n    right: -24px;\n    bottom: -28px;\n    width: 86px;\n    height: 86px;\n    border-radius: 50%;\n    background: radial-gradient(\n      circle,\n      rgba(184, 111, 77, 0.12),\n      transparent 67%\n    );\n    pointer-events: none;\n  }\n\n  @keyframes mcxFade {\n    from {\n      opacity: 0;\n      transform: translateY(12px);\n    }\n\n    to {\n      opacity: 1;\n      transform: translateY(0);\n    }\n  }\n\n  .mcx-card:nth-child(2) {\n    animation-delay: 0.05s;\n  }\n\n  .mcx-card:nth-child(3) {\n    animation-delay: 0.10s;\n  }\n\n  .mcx-card:nth-child(4) {\n    animation-delay: 0.15s;\n  }\n\n  .mcx-card:nth-child(5) {\n    animation-delay: 0.20s;\n  }\n\n  .mcx-card:nth-child(6) {\n    animation-delay: 0.25s;\n  }\n\n  .mcx-card:nth-child(7) {\n    animation-delay: 0.30s;\n  }\n\n  .mcx-card:nth-child(8) {\n    animation-delay: 0.35s;\n  }\n\n  .mcx-icon {\n    position: relative;\n    z-index: 1;\n    display: flex;\n    flex: 0 0 48px;\n    align-items: center;\n    justify-content: center;\n    width: 48px;\n    height: 48px;\n    border-radius: 15px;\n    color: #fff;\n    background: linear-gradient(\n      145deg,\n      var(--mcx-terracotta),\n      var(--mcx-terracotta-dark)\n    );\n    box-shadow: 0 7px 17px rgba(112, 65, 47, 0.22);\n    font-family: \"Segoe UI Emoji\", \"Apple Color Emoji\", sans-serif;\n    font-size: 21px;\n  }\n\n  .mcx-content {\n    position: relative;\n    z-index: 1;\n    padding-top: 2px;\n  }\n\n  .mcx-card-title {\n    margin-bottom: 5px;\n    color: var(--mcx-terracotta);\n    font-size: 11px;\n    font-weight: 700;\n    letter-spacing: 0.14em;\n    line-height: 1.35;\n    text-transform: uppercase;\n  }\n\n  .mcx-text {\n    color: var(--mcx-brown);\n    font-size: 15px;\n    line-height: 1.58;\n  }\n\n  .mcx-text strong {\n    color: var(--mcx-terracotta-dark);\n    font-weight: 700;\n  }\n\n  .mcx-alert {\n    grid-column: 1 / -1;\n    min-height: auto;\n    align-items: center;\n    border-color: rgba(184, 111, 77, 0.36);\n    background: linear-gradient(\n      135deg,\n      rgba(184, 111, 77, 0.13),\n      rgba(255, 255, 255, 0.92)\n    );\n  }\n\n  .mcx-alert .mcx-icon {\n    background: linear-gradient(145deg, #cf835e, #6d3928);\n  }\n\n  .mcx-alert .mcx-text {\n    font-size: 17px;\n    font-weight: 700;\n    letter-spacing: 0.02em;\n  }\n\n  .mcx-footer {\n    position: relative;\n    margin-top: 15px;\n    padding: 20px 18px;\n    overflow: hidden;\n    border: 1px solid rgba(198, 154, 90, 0.35);\n    border-radius: 22px;\n    text-align: center;\n    background: linear-gradient(\n      145deg,\n      rgba(255, 255, 255, 0.91),\n      rgba(239, 218, 199, 0.72)\n    );\n    box-shadow: 0 9px 27px rgba(80, 47, 34, 0.09);\n    animation: mcxFade 0.65s 0.40s ease both;\n  }\n\n  .mcx-footer::before {\n    content: \"✦\";\n    position: absolute;\n    top: 10px;\n    right: 16px;\n    color: rgba(198, 154, 90, 0.55);\n    font-size: 15px;\n  }\n\n  .mcx-footer-title {\n    margin-bottom: 6px;\n    color: var(--mcx-terracotta-dark);\n    font-size: 17px;\n    font-weight: 700;\n    letter-spacing: 0.08em;\n    text-transform: uppercase;\n  }\n\n  .mcx-footer-text {\n    max-width: 620px;\n    margin: 0 auto;\n    color: #5d3c2f;\n    font-size: 15px;\n    font-style: italic;\n    line-height: 1.62;\n  }\n\n  .mcx-sparkle {\n    position: absolute;\n    z-index: 1;\n    color: rgba(198, 154, 90, 0.50);\n    font-size: 13px;\n    pointer-events: none;\n    animation: mcxSparkle 3.2s ease-in-out infinite;\n  }\n\n  .mcx-sparkle.one {\n    top: 8%;\n    left: 7%;\n  }\n\n  .mcx-sparkle.two {\n    top: 19%;\n    right: 8%;\n    animation-delay: 1.1s;\n  }\n\n  .mcx-sparkle.three {\n    bottom: 9%;\n    left: 10%;\n    animation-delay: 2s;\n  }\n\n  @keyframes mcxSparkle {\n    0%,\n    100% {\n      opacity: 0.2;\n      transform: scale(0.75) rotate(0deg);\n    }\n\n    50% {\n      opacity: 1;\n      transform: scale(1.15) rotate(25deg);\n    }\n  }\n\n  @media (max-width: 620px) {\n    .mcx-wrap {\n      padding: 29px 14px 32px;\n    }\n\n    .mcx-grid {\n      grid-template-columns: 1fr;\n    }\n\n    .mcx-alert {\n      grid-column: auto;\n    }\n\n    .mcx-card {\n      min-height: auto;\n    }\n\n    .mcx-title {\n      letter-spacing: 0.10em;\n    }\n  }\n\n  @media (prefers-reduced-motion: reduce) {\n    .mcx-symbol,\n    .mcx-card,\n    .mcx-footer,\n    .mcx-sparkle {\n      animation: none !important;\n    }\n  }\n</style>\n\n<section class=\"mcx-wrap\" aria-label=\"Manual do Convidado\">\n  <span class=\"mcx-sparkle one\">✦</span>\n  <span class=\"mcx-sparkle two\">✧</span>\n  <span class=\"mcx-sparkle three\">✦</span>\n\n  <div class=\"mcx-inner\">\n    <header class=\"mcx-header\">\n      <span class=\"mcx-symbol\" aria-hidden=\"true\">🥂</span>\n\n      <h2 class=\"mcx-title\">Manual do Convidado</h2>\n\n      <p class=\"mcx-subtitle\">\n        Algumas orientações especiais para que todos aproveitem esta\n        celebração com carinho, organização e alegria.\n      </p>\n\n      <div class=\"mcx-ornament\">com carinho</div>\n    </header>\n\n    <div class=\"mcx-grid\">\n      <article class=\"mcx-card\">\n        <div class=\"mcx-icon\" aria-hidden=\"true\">⏰</div>\n\n        <div class=\"mcx-content\">\n          <h3 class=\"mcx-card-title\">Chegue no horário</h3>\n\n          <p class=\"mcx-text\">\n            Sua presença <strong>pontual</strong> é muito importante para nós.\n          </p>\n        </div>\n      </article>\n\n      <article class=\"mcx-card\">\n        <div class=\"mcx-icon\" aria-hidden=\"true\">✓</div>\n\n        <div class=\"mcx-content\">\n          <h3 class=\"mcx-card-title\">Confirme sua presença</h3>\n\n          <p class=\"mcx-text\">\n            Por favor, confirme sua presença pelo menos\n            <strong>15 dias antes do evento</strong>.\n          </p>\n        </div>\n      </article>\n\n      <article class=\"mcx-card mcx-alert\">\n        <div class=\"mcx-icon\" aria-hidden=\"true\">!</div>\n\n        <div class=\"mcx-content\">\n          <h3 class=\"mcx-card-title\">Convite individual</h3>\n          <p class=\"mcx-text\">Convidado não convida!</p>\n        </div>\n      </article>\n\n      <article class=\"mcx-card\">\n        <div class=\"mcx-icon\" aria-hidden=\"true\">🍻</div>\n\n        <div class=\"mcx-content\">\n          <h3 class=\"mcx-card-title\">Bebidas alcoólicas</h3>\n\n          <p class=\"mcx-text\">\n            Se você consome bebida alcoólica, traga uma\n            <strong>caixinha gelada</strong>.\n          </p>\n        </div>\n      </article>\n\n      <article class=\"mcx-card\">\n        <div class=\"mcx-icon\" aria-hidden=\"true\">🔔</div>\n\n        <div class=\"mcx-content\">\n          <h3 class=\"mcx-card-title\">Conte com o garçom</h3>\n\n          <p class=\"mcx-text\">\n            Tudo o que você precisar, <strong>peça ao garçom</strong>.\n          </p>\n        </div>\n      </article>\n\n      <article class=\"mcx-card\">\n        <div class=\"mcx-icon\" aria-hidden=\"true\">🎂</div>\n\n        <div class=\"mcx-content\">\n          <h3 class=\"mcx-card-title\">Mesa do bolo e dos doces</h3>\n\n          <p class=\"mcx-text\">\n            Os doces e o bolo serão servidos depois dos parabéns; portanto,\n            <strong>não mexa na mesa</strong>.\n          </p>\n        </div>\n      </article>\n\n      <article class=\"mcx-card\">\n        <div class=\"mcx-icon\" aria-hidden=\"true\">🎉</div>\n\n        <div class=\"mcx-content\">\n          <h3 class=\"mcx-card-title\">Divirta-se bastante</h3>\n\n          <p class=\"mcx-text\">\n            Estamos ansiosos para celebrar este\n            <strong>momento especial</strong> com você.\n          </p>\n        </div>\n      </article>\n\n      <article class=\"mcx-card\">\n        <div class=\"mcx-icon\" aria-hidden=\"true\">🤗</div>\n\n        <div class=\"mcx-content\">\n          <h3 class=\"mcx-card-title\">Antes de ir embora</h3>\n\n          <p class=\"mcx-text\">\n            Não vá embora sem me dar um abraço e comer um pedaço do bolo.\n            Queremos compartilhar <strong>cada instante</strong> com você.\n          </p>\n        </div>\n      </article>\n    </div>\n\n    <footer class=\"mcx-footer\">\n      <div class=\"mcx-footer-title\">Aproveite cada momento ✨</div>\n\n      <p class=\"mcx-footer-text\">\n        Sua presença torna esta celebração ainda mais especial. Esperamos que\n        você se divirta, sorria muito e guarde lindas lembranças deste dia.\n      </p>\n    </footer>\n  </div>\n</section>"
     },
     {
+      "id": "btn_ef254a31c7d41d9d",
       "tipoAcao": "PopupHtml",
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
@@ -116,9 +110,11 @@ window.config = {
     "lembrete": false
   },
   "config": {
-    "exibirMarcaDagua": true,
+    "exibirMarcaDagua": false,
     "cronometro": true,
     "buttonColor": "#8b5a2b",
+    "buttonGradientColor": "#ec4899",
+    "buttonGradientEnabled": false,
     "buttonSize": 1,
     "isButtonFilled": true,
     "shadowStyle": "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%)",
