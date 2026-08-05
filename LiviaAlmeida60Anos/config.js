@@ -4,7 +4,7 @@ window.config = {
     "nome": "Lívia Almeida",
     "idade": 60,
     "data": "2027-01-10",
-    "hora": "13:00",
+    "hora": "15:00",
     "horaTermino": "",
     "endereco": "Av Rio pequeno 1594",
     "frase1": "",
@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Terracota, creme e dourado",
     "tema": "Elegante",
-    "musica": "assets/music_1785967287861.mp3",
+    "musica": "assets/music_1785967538355.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "LiviaAlmeida60Anos",
@@ -25,21 +25,21 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785967287861.png",
-    "cartao": "assets/cartao_gen_1785967287861.jpg",
+    "capa": "assets/cover_1785967538355.png",
+    "cartao": "assets/cartao_gen_1785967538355.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785967287861.mp4"
+      "assets/slide1_1785967538355.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785967287861.mp4",
+        "filePath": "assets/slide1_1785967538355.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785967287861.png",
-    "folhaPreenchida": "assets/folha_1785967287861.jpg",
-    "musica": "assets/music_1785967287861.mp3",
+    "folhaVazia": "assets/folha_vazia_1785967538355.png",
+    "folhaPreenchida": "assets/folha_1785967538355.png",
+    "musica": "assets/music_1785967538355.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
