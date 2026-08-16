@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa com Azul-bebê, Dourado e Prata",
     "tema": "Elegante",
-    "musica": "assets/music_1786814948289.mp3",
+    "musica": "assets/music_1786907918183.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnaLaura15Anos",
@@ -25,33 +25,33 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1786814948289.png",
-    "cartao": "assets/d66d2047_3a43_4add_939a_803659e3e775_1786814948289.png",
+    "capa": "assets/cover_1786907918183.png",
+    "cartao": "assets/d66d2047_3a43_4add_939a_803659e3e775_1786907918183.png",
     "aberturaSlides": [
-      "assets/slide1_1786814948289.mp4",
-      "assets/slide2_1786814948289.mp4",
-      "assets/slide3_1786814948289.mp4"
+      "assets/slide1_1786907918183.mp4",
+      "assets/slide2_1786907918183.mp4",
+      "assets/slide3_1786907918183.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1786814948289.mp4",
+        "filePath": "assets/slide1_1786907918183.mp4",
         "label": "Gerando vídeo...",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1786814948289.mp4",
+        "filePath": "assets/slide2_1786907918183.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1786814948289.mp4",
+        "filePath": "assets/slide3_1786907918183.mp4",
         "label": "Slide 2",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1786814948289.png",
-    "folhaPreenchida": "assets/folha_1786814948289.jpg",
-    "musica": "assets/music_1786814948289.mp3",
+    "folhaVazia": "assets/folha_vazia_1786907918183.png",
+    "folhaPreenchida": "assets/folha_1786907918183.jpg",
+    "musica": "assets/music_1786907918183.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -102,7 +102,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dress Code",
       "icone": "fa-solid fa-shirt",
-      "conteudo": "assets/ef0a2189_426e_44a8_811c_6455eea67b79_1786814948289.jpg"
+      "conteudo": "assets/ef0a2189_426e_44a8_811c_6455eea67b79_1786907918183.jpg"
     },
     {
       "id": "btn_163ea575-aa78-4e22-ba9d-de12a80eca74",
