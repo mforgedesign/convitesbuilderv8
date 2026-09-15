@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rose com Dourado e detalhes em Pink",
     "tema": "Floral",
-    "musica": "assets/music_1785095252140.mp3",
+    "musica": "assets/music_1789492982564.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Laura15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785095252140.png",
-    "cartao": "assets/eccb2552_f8cc_4628_b5ea_c6f68cac7b05_1785095252140.png",
+    "capa": "assets/cover_1789492982564.png",
+    "cartao": "assets/eccb2552_f8cc_4628_b5ea_c6f68cac7b05_1789492982564.png",
     "aberturaSlides": [
-      "assets/slide1_1785095252140.mp4",
-      "assets/slide2_1785095252140.jpg",
-      "assets/slide3_1785095252140.mp4",
-      "assets/slide4_1785095252140.jpg"
+      "assets/slide1_1789492982564.mp4",
+      "assets/slide2_1789492982564.jpg",
+      "assets/slide3_1789492982564.mp4",
+      "assets/slide4_1789492982564.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785095252140.mp4",
+        "filePath": "assets/slide1_1789492982564.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785095252140.jpg",
+        "filePath": "assets/slide2_1789492982564.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1785095252140.mp4",
+        "filePath": "assets/slide3_1789492982564.mp4",
         "label": "Cena Tematica",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785095252140.jpg",
+        "filePath": "assets/slide4_1789492982564.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785095252140.png",
-    "folhaPreenchida": "assets/folha_1785095252140.png",
-    "musica": "assets/music_1785095252140.mp3",
+    "folhaVazia": "assets/folha_vazia_1789492982564.png",
+    "folhaPreenchida": "assets/folha_1789492982564.png",
+    "musica": "assets/music_1789492982564.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -81,9 +81,18 @@ window.config = {
       }
     },
     "fotos": [
-      "assets/foto1_1785095252140.jpg",
-      "assets/foto2_1785095252140.jpg",
-      "assets/foto3_1785095252140.jpg"
+      "assets/foto1_1789492982564.jpeg",
+      "assets/foto2_1789492982564.jpeg",
+      "assets/foto3_1789492982564.jpeg",
+      "assets/foto4_1789492982564.jpeg",
+      "assets/foto5_1789492982564.jpeg",
+      "assets/foto6_1789492982564.jpeg",
+      "assets/foto7_1789492982564.jpeg",
+      "assets/foto8_1789492982564.jpeg",
+      "assets/foto9_1789492982564.jpeg",
+      "assets/foto10_1789492982564.jpeg",
+      "assets/foto11_1789492982564.jpeg",
+      "assets/foto12_1789492982564.jpeg"
     ],
     "popupImagensPorBotao": {}
   },
@@ -91,6 +100,8 @@ window.config = {
     {
       "id": "btn_eff95903-128a-4882-a32d-db265fb1082c",
       "tipoAcao": "Link",
+      "imageActionTitle": "",
+      "imageActionHtml": "",
       "tipoVisual": "css",
       "titulo": "Como Chegar",
       "icone": "fa-solid fa-location-dot",
@@ -99,6 +110,8 @@ window.config = {
     {
       "id": "btn_ecff1da1-a973-4069-b181-05d08bd96b10",
       "tipoAcao": "RSVP",
+      "imageActionTitle": "",
+      "imageActionHtml": "",
       "tipoVisual": "css",
       "titulo": "Confirmar Presença",
       "icone": "fa-solid fa-check",
@@ -106,24 +119,38 @@ window.config = {
       "rsvpConfig": {
         "exibirNome": true,
         "exibirWhatsapp": false,
-        "exibirAcompanhantes": false
+        "exibirAcompanhantes": false,
+        "textoConfirmacao": ""
       }
     },
     {
       "id": "btn_aa17a97b-a82c-499c-96b4-5ef4d4ead622",
       "tipoAcao": "Galeria",
+      "imageActionTitle": "",
+      "imageActionHtml": "",
       "tipoVisual": "css",
       "titulo": "Galeria de Fotos",
       "icone": "fa-solid fa-images",
       "conteudo": [
-        "assets/foto1_1785095252140.jpg",
-        "assets/foto2_1785095252140.jpg",
-        "assets/foto3_1785095252140.jpg"
+        "assets/foto1_1789492982564.jpeg",
+        "assets/foto2_1789492982564.jpeg",
+        "assets/foto3_1789492982564.jpeg",
+        "assets/foto4_1789492982564.jpeg",
+        "assets/foto5_1789492982564.jpeg",
+        "assets/foto6_1789492982564.jpeg",
+        "assets/foto7_1789492982564.jpeg",
+        "assets/foto8_1789492982564.jpeg",
+        "assets/foto9_1789492982564.jpeg",
+        "assets/foto10_1789492982564.jpeg",
+        "assets/foto11_1789492982564.jpeg",
+        "assets/foto12_1789492982564.jpeg"
       ]
     },
     {
       "id": "btn_514fa79d-2100-4f63-9f41-00d3035f9eb7",
       "tipoAcao": "PopupHtml",
+      "imageActionTitle": "",
+      "imageActionHtml": "",
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
@@ -132,6 +159,8 @@ window.config = {
     {
       "id": "btn_c48a3c5c-b21c-45d9-9056-d0da51b4e723",
       "tipoAcao": "Link",
+      "imageActionTitle": "",
+      "imageActionHtml": "",
       "tipoVisual": "css",
       "titulo": "Lista de Presentes",
       "icone": "fa-solid fa-gift",
@@ -147,6 +176,8 @@ window.config = {
     "exibirMarcaDagua": false,
     "cronometro": true,
     "buttonColor": "#d9315b",
+    "buttonGradientColor": "#ec4899",
+    "buttonGradientEnabled": false,
     "buttonSize": 1,
     "isButtonFilled": true,
     "shadowStyle": "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%)",
