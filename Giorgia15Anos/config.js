@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul, rosa/pink e branco",
     "tema": "Floral Mamma Mia",
-    "musica": "assets/music_1791238484112.mp3",
+    "musica": "assets/music_1791240735440.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Giorgia15Anos",
@@ -25,45 +25,45 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1791238484112.png",
-    "cartao": "assets/cartao_gen_1791238484112.jpg",
+    "capa": "assets/cover_1791240735440.png",
+    "cartao": "assets/cartao_gen_1791240735440.jpg",
     "aberturaSlides": [
-      "assets/slide1_1791238484112.mp4",
-      "assets/slide2_1791238484112.mp4",
-      "assets/slide3_1791238484112.mp4",
-      "assets/slide4_1791238484112.mp4",
-      "assets/slide5_1791238484112.mp4"
+      "assets/slide1_1791240735440.mp4",
+      "assets/slide2_1791240735440.mp4",
+      "assets/slide3_1791240735440.mp4",
+      "assets/slide4_1791240735440.mp4",
+      "assets/slide5_1791240735440.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1791238484112.mp4",
+        "filePath": "assets/slide1_1791240735440.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1791238484112.mp4",
+        "filePath": "assets/slide2_1791240735440.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1791238484112.mp4",
+        "filePath": "assets/slide3_1791240735440.mp4",
         "label": "Slide 2",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1791238484112.mp4",
+        "filePath": "assets/slide4_1791240735440.mp4",
         "label": "Slide 3",
         "type": "video"
       },
       {
-        "filePath": "assets/slide5_1791238484112.mp4",
+        "filePath": "assets/slide5_1791240735440.mp4",
         "label": "Slide 4",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1791238484112.png",
-    "folhaPreenchida": "assets/folha_1791238484112.png",
-    "musica": "assets/music_1791238484112.mp3",
+    "folhaVazia": "assets/folha_vazia_1791240735440.png",
+    "folhaPreenchida": "assets/folha_1791240735440.png",
+    "musica": "assets/music_1791240735440.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -87,21 +87,21 @@ window.config = {
       }
     },
     "fotos": [
-      "assets/foto1_1791238484112.jpeg",
-      "assets/foto2_1791238484112.jpeg",
-      "assets/foto3_1791238484112.jpeg",
-      "assets/foto4_1791238484112.jpeg",
-      "assets/foto5_1791238484112.jpeg",
-      "assets/foto6_1791238484112.jpeg",
-      "assets/foto7_1791238484112.jpeg",
-      "assets/foto8_1791238484112.jpeg",
-      "assets/foto9_1791238484112.jpeg",
-      "assets/foto10_1791238484112.jpeg",
-      "assets/foto11_1791238484112.jpeg",
-      "assets/foto12_1791238484112.jpeg",
-      "assets/foto13_1791238484112.jpeg",
-      "assets/foto14_1791238484112.jpeg",
-      "assets/foto15_1791238484112.jpeg"
+      "assets/foto1_1791240735440.jpeg",
+      "assets/foto2_1791240735440.jpeg",
+      "assets/foto3_1791240735440.jpeg",
+      "assets/foto4_1791240735440.jpeg",
+      "assets/foto5_1791240735440.jpeg",
+      "assets/foto6_1791240735440.jpeg",
+      "assets/foto7_1791240735440.jpeg",
+      "assets/foto8_1791240735440.jpeg",
+      "assets/foto9_1791240735440.jpeg",
+      "assets/foto10_1791240735440.jpeg",
+      "assets/foto11_1791240735440.jpeg",
+      "assets/foto12_1791240735440.jpeg",
+      "assets/foto13_1791240735440.jpeg",
+      "assets/foto14_1791240735440.jpeg",
+      "assets/foto15_1791240735440.jpeg"
     ],
     "popupImagensPorBotao": {}
   },
@@ -140,7 +140,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Guia dos Convidados",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "assets/afb0853a_9c41_415c_98d4_5c28b00a97a3_1791238484112.png"
+      "conteudo": "assets/afb0853a_9c41_415c_98d4_5c28b00a97a3_1791240735440.png"
     },
     {
       "id": "btn_3237c0f8d375bc2f",
@@ -150,7 +150,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Sugestões de Presentes",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/fd6804c8_5579_4f62_95d6_3dd6a0d74321_1791238484112.png"
+      "conteudo": "assets/fd6804c8_5579_4f62_95d6_3dd6a0d74321_1791240735440.png"
     },
     {
       "id": "btn_aa9a9b1ca0285838",
@@ -161,21 +161,21 @@ window.config = {
       "titulo": "Galeria de Fotos",
       "icone": "fa-solid fa-camera",
       "conteudo": [
-        "assets/foto1_1791238484112.jpeg",
-        "assets/foto2_1791238484112.jpeg",
-        "assets/foto3_1791238484112.jpeg",
-        "assets/foto4_1791238484112.jpeg",
-        "assets/foto5_1791238484112.jpeg",
-        "assets/foto6_1791238484112.jpeg",
-        "assets/foto7_1791238484112.jpeg",
-        "assets/foto8_1791238484112.jpeg",
-        "assets/foto9_1791238484112.jpeg",
-        "assets/foto10_1791238484112.jpeg",
-        "assets/foto11_1791238484112.jpeg",
-        "assets/foto12_1791238484112.jpeg",
-        "assets/foto13_1791238484112.jpeg",
-        "assets/foto14_1791238484112.jpeg",
-        "assets/foto15_1791238484112.jpeg"
+        "assets/foto1_1791240735440.jpeg",
+        "assets/foto2_1791240735440.jpeg",
+        "assets/foto3_1791240735440.jpeg",
+        "assets/foto4_1791240735440.jpeg",
+        "assets/foto5_1791240735440.jpeg",
+        "assets/foto6_1791240735440.jpeg",
+        "assets/foto7_1791240735440.jpeg",
+        "assets/foto8_1791240735440.jpeg",
+        "assets/foto9_1791240735440.jpeg",
+        "assets/foto10_1791240735440.jpeg",
+        "assets/foto11_1791240735440.jpeg",
+        "assets/foto12_1791240735440.jpeg",
+        "assets/foto13_1791240735440.jpeg",
+        "assets/foto14_1791240735440.jpeg",
+        "assets/foto15_1791240735440.jpeg"
       ]
     }
   ],
